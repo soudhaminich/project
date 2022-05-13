@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\soudh\\Downloads\\Face2Face-App-main\\Face2Face-App-main\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_container_user.xml",
+        "source": "C:\\Users\\soudh\\Downloads\\Face2Face-App-main\\Face2Face-App-main\\app\\src\\main\\res\\layout\\item_container_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\soudh\\Downloads\\Face2Face-App-main\\Face2Face-App-main\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_incoming_invitation.xml",
+        "source": "C:\\Users\\soudh\\Downloads\\Face2Face-App-main\\Face2Face-App-main\\app\\src\\main\\res\\layout\\activity_incoming_invitation.xml"
+    },
+    {
+        "merged": "C:\\Users\\soudh\\Downloads\\Face2Face-App-main\\Face2Face-App-main\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\soudh\\Downloads\\Face2Face-App-main\\Face2Face-App-main\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\soudh\\Downloads\\Face2Face-App-main\\Face2Face-App-main\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_sign_in.xml",
+        "source": "C:\\Users\\soudh\\Downloads\\Face2Face-App-main\\Face2Face-App-main\\app\\src\\main\\res\\layout\\activity_sign_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\soudh\\Downloads\\Face2Face-App-main\\Face2Face-App-main\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_outgoing_invitation.xml",
+        "source": "C:\\Users\\soudh\\Downloads\\Face2Face-App-main\\Face2Face-App-main\\app\\src\\main\\res\\layout\\activity_outgoing_invitation.xml"
+    },
+    {
+        "merged": "C:\\Users\\soudh\\Downloads\\Face2Face-App-main\\Face2Face-App-main\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_sign_up.xml",
+        "source": "C:\\Users\\soudh\\Downloads\\Face2Face-App-main\\Face2Face-App-main\\app\\src\\main\\res\\layout\\activity_sign_up.xml"
+    }
+]

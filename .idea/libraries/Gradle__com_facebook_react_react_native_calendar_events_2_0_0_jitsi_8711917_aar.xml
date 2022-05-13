@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.facebook.react:react-native-calendar-events:2.0.0-jitsi-8711917@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../MeetingApp-main/MeetingApp-main/caches/transforms-2/files-2.1/d7994fdcdf6f23af85e587e0092a237c/jetified-react-native-calendar-events-2.0.0-jitsi-8711917/res" />
+      <root url="jar://$PROJECT_DIR$/../../MeetingApp-main/MeetingApp-main/caches/transforms-2/files-2.1/805ef81bb71a78d37146202d4b3c8c9e/jetified-react-native-calendar-events-2.0.0-jitsi-8711917/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../MeetingApp-main/MeetingApp-main/caches/transforms-2/files-2.1/805ef81bb71a78d37146202d4b3c8c9e/jetified-react-native-calendar-events-2.0.0-jitsi-8711917/res" />
+      <root url="file://$PROJECT_DIR$/../../MeetingApp-main/MeetingApp-main/caches/transforms-2/files-2.1/805ef81bb71a78d37146202d4b3c8c9e/jetified-react-native-calendar-events-2.0.0-jitsi-8711917/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../MeetingApp-main/MeetingApp-main/caches/modules-2/files-2.1/com.facebook.react/react-native-calendar-events/2.0.0-jitsi-8711917/af5a5646b3a863cd41ea81ebf391a2fc252d5824/react-native-calendar-events-2.0.0-jitsi-8711917-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

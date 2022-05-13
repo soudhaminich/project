@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.facebook.react:react-native-immersive:2.0.0-jitsi-8711917@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../MeetingApp-main/MeetingApp-main/caches/transforms-2/files-2.1/1e72c60a564dbad31f8495813e76ce4f/jetified-react-native-immersive-2.0.0-jitsi-8711917/res" />
+      <root url="jar://$PROJECT_DIR$/../../MeetingApp-main/MeetingApp-main/caches/transforms-2/files-2.1/d32cf314435406a70afad820f5091e59/jetified-react-native-immersive-2.0.0-jitsi-8711917/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../MeetingApp-main/MeetingApp-main/caches/transforms-2/files-2.1/d32cf314435406a70afad820f5091e59/jetified-react-native-immersive-2.0.0-jitsi-8711917/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../MeetingApp-main/MeetingApp-main/caches/transforms-2/files-2.1/d32cf314435406a70afad820f5091e59/jetified-react-native-immersive-2.0.0-jitsi-8711917/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../MeetingApp-main/MeetingApp-main/caches/modules-2/files-2.1/com.facebook.react/react-native-immersive/2.0.0-jitsi-8711917/629ab66d4bc18293b36ed6bfab1d10c9f9490552/react-native-immersive-2.0.0-jitsi-8711917-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

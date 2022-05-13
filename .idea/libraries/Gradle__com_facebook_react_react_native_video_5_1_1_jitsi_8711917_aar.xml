@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.facebook.react:react-native-video:5.1.1-jitsi-8711917@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../MeetingApp-main/MeetingApp-main/caches/transforms-2/files-2.1/ad19de7506918a90163575ecff797a07/jetified-react-native-video-5.1.1-jitsi-8711917/res" />
+      <root url="jar://$PROJECT_DIR$/../../MeetingApp-main/MeetingApp-main/caches/transforms-2/files-2.1/1525c10006ed6afa5167f5175de2290f/jetified-react-native-video-5.1.1-jitsi-8711917/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../MeetingApp-main/MeetingApp-main/caches/transforms-2/files-2.1/1525c10006ed6afa5167f5175de2290f/jetified-react-native-video-5.1.1-jitsi-8711917/res" />
+      <root url="file://$PROJECT_DIR$/../../MeetingApp-main/MeetingApp-main/caches/transforms-2/files-2.1/1525c10006ed6afa5167f5175de2290f/jetified-react-native-video-5.1.1-jitsi-8711917/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../MeetingApp-main/MeetingApp-main/caches/modules-2/files-2.1/com.facebook.react/react-native-video/5.1.1-jitsi-8711917/344bad9403ec654556cf8b7d85cedf6c86794746/react-native-video-5.1.1-jitsi-8711917-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

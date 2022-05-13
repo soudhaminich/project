@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.facebook.react:react-native-device-info:8.0.0-jitsi-8711917@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../MeetingApp-main/MeetingApp-main/caches/transforms-2/files-2.1/261a51fd2efbacb0036db2088ff0748f/jetified-react-native-device-info-8.0.0-jitsi-8711917/res" />
+      <root url="jar://$PROJECT_DIR$/../../MeetingApp-main/MeetingApp-main/caches/transforms-2/files-2.1/2b0531e27fa5c0791df917ba7b33580f/jetified-react-native-device-info-8.0.0-jitsi-8711917/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../MeetingApp-main/MeetingApp-main/caches/transforms-2/files-2.1/2b0531e27fa5c0791df917ba7b33580f/jetified-react-native-device-info-8.0.0-jitsi-8711917/res" />
+      <root url="file://$PROJECT_DIR$/../../MeetingApp-main/MeetingApp-main/caches/transforms-2/files-2.1/2b0531e27fa5c0791df917ba7b33580f/jetified-react-native-device-info-8.0.0-jitsi-8711917/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../MeetingApp-main/MeetingApp-main/caches/modules-2/files-2.1/com.facebook.react/react-native-device-info/8.0.0-jitsi-8711917/3b7fe311b8f7304172c5b7bfd4f6844bbde5d234/react-native-device-info-8.0.0-jitsi-8711917-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.facebook.react:react-native-google-signin:3.0.1-jitsi-8711917@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../MeetingApp-main/MeetingApp-main/caches/transforms-2/files-2.1/050fa6913405b82c449825bc1745dd35/jetified-react-native-google-signin-3.0.1-jitsi-8711917/res" />
+      <root url="file://$PROJECT_DIR$/../../MeetingApp-main/MeetingApp-main/caches/transforms-2/files-2.1/67401f6d00b38719961341c721464418/jetified-react-native-google-signin-3.0.1-jitsi-8711917/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../MeetingApp-main/MeetingApp-main/caches/transforms-2/files-2.1/67401f6d00b38719961341c721464418/jetified-react-native-google-signin-3.0.1-jitsi-8711917/res" />
+      <root url="jar://$PROJECT_DIR$/../../MeetingApp-main/MeetingApp-main/caches/transforms-2/files-2.1/67401f6d00b38719961341c721464418/jetified-react-native-google-signin-3.0.1-jitsi-8711917/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../MeetingApp-main/MeetingApp-main/caches/modules-2/files-2.1/com.facebook.react/react-native-google-signin/3.0.1-jitsi-8711917/4d23fb87de800b557330e329abdfcd67afcf6836/react-native-google-signin-3.0.1-jitsi-8711917-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

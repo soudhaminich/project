@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.facebook.react:react-native-keep-awake:4.0.0-jitsi-8711917@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../MeetingApp-main/MeetingApp-main/caches/transforms-2/files-2.1/dc3c7ac94fa83f9ef4ef2730b030c5b8/jetified-react-native-keep-awake-4.0.0-jitsi-8711917/res" />
+      <root url="jar://$PROJECT_DIR$/../../MeetingApp-main/MeetingApp-main/caches/transforms-2/files-2.1/721cddf0c1353bdbca82eb6e5d849fb0/jetified-react-native-keep-awake-4.0.0-jitsi-8711917/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../MeetingApp-main/MeetingApp-main/caches/transforms-2/files-2.1/721cddf0c1353bdbca82eb6e5d849fb0/jetified-react-native-keep-awake-4.0.0-jitsi-8711917/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../MeetingApp-main/MeetingApp-main/caches/transforms-2/files-2.1/721cddf0c1353bdbca82eb6e5d849fb0/jetified-react-native-keep-awake-4.0.0-jitsi-8711917/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../MeetingApp-main/MeetingApp-main/caches/modules-2/files-2.1/com.facebook.react/react-native-keep-awake/4.0.0-jitsi-8711917/4a21a179d6a8d0057bbcca4f3edd71c8c1502c1/react-native-keep-awake-4.0.0-jitsi-8711917-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

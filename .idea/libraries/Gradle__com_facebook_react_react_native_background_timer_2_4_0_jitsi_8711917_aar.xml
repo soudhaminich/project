@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.facebook.react:react-native-background-timer:2.4.0-jitsi-8711917@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../MeetingApp-main/MeetingApp-main/caches/transforms-2/files-2.1/cb61cf75059e5b0b02211fc02a5911f1/jetified-react-native-background-timer-2.4.0-jitsi-8711917/res" />
+      <root url="file://$PROJECT_DIR$/../../MeetingApp-main/MeetingApp-main/caches/transforms-2/files-2.1/8bb29311c840f0463310cfc235444bb7/jetified-react-native-background-timer-2.4.0-jitsi-8711917/res" />
+      <root url="file://$PROJECT_DIR$/../../MeetingApp-main/MeetingApp-main/caches/transforms-2/files-2.1/8bb29311c840f0463310cfc235444bb7/jetified-react-native-background-timer-2.4.0-jitsi-8711917/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../MeetingApp-main/MeetingApp-main/caches/transforms-2/files-2.1/8bb29311c840f0463310cfc235444bb7/jetified-react-native-background-timer-2.4.0-jitsi-8711917/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../MeetingApp-main/MeetingApp-main/caches/modules-2/files-2.1/com.facebook.react/react-native-background-timer/2.4.0-jitsi-8711917/86fa35ef3facc36c673fe4aa921359007369126b/react-native-background-timer-2.4.0-jitsi-8711917-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

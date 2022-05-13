@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.facebook.react:react-native-performance:2.0.0-jitsi-8711917@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../MeetingApp-main/MeetingApp-main/caches/transforms-2/files-2.1/c2000e2ea4d07e98ecb2b8a8563d1f2d/jetified-react-native-performance-2.0.0-jitsi-8711917/res" />
+      <root url="file://$PROJECT_DIR$/../../MeetingApp-main/MeetingApp-main/caches/transforms-2/files-2.1/786f1b59a0ed8aa69fcb305e72fd3976/jetified-react-native-performance-2.0.0-jitsi-8711917/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../MeetingApp-main/MeetingApp-main/caches/transforms-2/files-2.1/786f1b59a0ed8aa69fcb305e72fd3976/jetified-react-native-performance-2.0.0-jitsi-8711917/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../MeetingApp-main/MeetingApp-main/caches/transforms-2/files-2.1/786f1b59a0ed8aa69fcb305e72fd3976/jetified-react-native-performance-2.0.0-jitsi-8711917/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../MeetingApp-main/MeetingApp-main/caches/modules-2/files-2.1/com.facebook.react/react-native-performance/2.0.0-jitsi-8711917/9ec2dda3847e97e6267bc4c930ff44b9ca6fdfac/react-native-performance-2.0.0-jitsi-8711917-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

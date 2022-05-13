@@ -1,0 +1,901 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\soudh\Downloads\Face2Face-App-main\Face2Face-App-main\app\src\main\AndroidManifest.xml:2:1-48:12
+INJECTED from C:\Users\soudh\Downloads\Face2Face-App-main\Face2Face-App-main\app\src\main\AndroidManifest.xml:2:1-48:12
+INJECTED from C:\Users\soudh\Downloads\Face2Face-App-main\Face2Face-App-main\app\src\main\AndroidManifest.xml:2:1-48:12
+INJECTED from C:\Users\soudh\Downloads\Face2Face-App-main\Face2Face-App-main\app\src\main\AndroidManifest.xml:2:1-48:12
+MERGED from [androidx.databinding:viewbinding:4.1.2] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\129bc04b4d8f9c06f27a44fd06150c77\jetified-viewbinding-4.1.2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\9af35b7b766454b744b277a2fed76940\material-1.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\c3bb427c732f7f8122ff9d821f641589\constraintlayout-2.0.4\AndroidManifest.xml:2:1-11:12
+MERGED from [org.jitsi.react:jitsi-meet-sdk:3.10.2] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\f87b4c314a841adcfd86a6d80209411c\jetified-jitsi-meet-sdk-3.10.2\AndroidManifest.xml:2:1-65:12
+MERGED from [com.facebook.react:react-native-amplitude:2.3.3-jitsi-8711917] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\afe695165ee81f6a733ca46e59582859\jetified-react-native-amplitude-2.3.3-jitsi-8711917\AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native-device-info:8.0.0-jitsi-8711917] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\2b0531e27fa5c0791df917ba7b33580f\jetified-react-native-device-info-8.0.0-jitsi-8711917\AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native-google-signin:3.0.1-jitsi-8711917] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\67401f6d00b38719961341c721464418\jetified-react-native-google-signin-3.0.1-jitsi-8711917\AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native-async-storage:1.15.5-jitsi-8711917] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\af12172abc8e33621cc273bcea44cbfb\jetified-react-native-async-storage-1.15.5-jitsi-8711917\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.react:react-native-background-timer:2.4.0-jitsi-8711917] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\8bb29311c840f0463310cfc235444bb7\jetified-react-native-background-timer-2.4.0-jitsi-8711917\AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.react:react-native-calendar-events:2.0.0-jitsi-8711917] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\805ef81bb71a78d37146202d4b3c8c9e\jetified-react-native-calendar-events-2.0.0-jitsi-8711917\AndroidManifest.xml:2:1-14:12
+MERGED from [com.facebook.react:react-native-community_netinfo:4.1.5-jitsi-8711917] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\9627468fae8ce27b6cad3cada140439b\jetified-react-native-community_netinfo-4.1.5-jitsi-8711917\AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native-default-preference:1.4.2-jitsi-8711917] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\507f8293f6f780611f53d145fba454c7\jetified-react-native-default-preference-1.4.2-jitsi-8711917\AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native-immersive:2.0.0-jitsi-8711917] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\d32cf314435406a70afad820f5091e59\jetified-react-native-immersive-2.0.0-jitsi-8711917\AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native-keep-awake:4.0.0-jitsi-8711917] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\721cddf0c1353bdbca82eb6e5d849fb0\jetified-react-native-keep-awake-4.0.0-jitsi-8711917\AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native-performance:2.0.0-jitsi-8711917] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\786f1b59a0ed8aa69fcb305e72fd3976\jetified-react-native-performance-2.0.0-jitsi-8711917\AndroidManifest.xml:2:1-16:12
+MERGED from [com.facebook.react:react-native-slider:3.0.3-jitsi-8711917] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\0c3b6255dd4e5c360176099b3df2d540\jetified-react-native-slider-3.0.3-jitsi-8711917\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.react:react-native-sound:0.11.0-jitsi-8711917] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\eb5538973fbdb99d8951a03c57232c77\jetified-react-native-sound-0.11.0-jitsi-8711917\AndroidManifest.xml:2:1-12:12
+MERGED from [com.facebook.react:react-native-splash-screen:3.2.0-jitsi-8711917] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\994205efa6578c4504f7f0c7ce691465\jetified-react-native-splash-screen-3.2.0-jitsi-8711917\AndroidManifest.xml:2:1-14:12
+MERGED from [com.facebook.react:react-native-svg:12.1.0-jitsi-8711917] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\dec34014321326002f2be6994e68346d\jetified-react-native-svg-12.1.0-jitsi-8711917\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.react:react-native-video:5.1.1-jitsi-8711917] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\1525c10006ed6afa5167f5175de2290f\jetified-react-native-video-5.1.1-jitsi-8711917\AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native-webrtc:1.92.2-jitsi-8711917] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\4004367c7775646216a59ee231d40908\jetified-react-native-webrtc-1.92.2-jitsi-8711917\AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native-webview:11.0.2-jitsi-8711917] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\7788592cfd882718323ccd03b725edf0\jetified-react-native-webview-11.0.2-jitsi-8711917\AndroidManifest.xml:2:1-23:12
+MERGED from [com.facebook.react:react-native:0.61.5-jitsi.2] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\3aaaefdba9f8f9f0919460349c111e2c\jetified-react-native-0.61.5-jitsi.2\AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\d57bdb6453df122706080a7d48d457e3\appcompat-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-messaging:21.0.1] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\9d22dfe104aae82c03ed20d5a67e0bc9\jetified-firebase-messaging-21.0.1\AndroidManifest.xml:17:1-45:12
+MERGED from [com.google.firebase:firebase-firestore:22.1.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\0dc7d0dc5cfbb49c18d11a8ac5cf276a\jetified-firebase-firestore-22.1.0\AndroidManifest.xml:2:1-26:12
+MERGED from [com.google.firebase:firebase-auth:21.0.3] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\893d160e19d6415da482cbe6ee90126d\jetified-firebase-auth-21.0.3\AndroidManifest.xml:17:1-73:12
+MERGED from [com.intuit.sdp:sdp-android:1.0.6] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\544d301fc9e2fcb8df0d0b716cf6b605\jetified-sdp-android-1.0.6\AndroidManifest.xml:2:1-11:12
+MERGED from [com.intuit.ssp:ssp-android:1.0.6] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\95e999105d9f4f9bd65f5a1c0b747313\jetified-ssp-android-1.0.6\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\d2e4df9a233f773c6ffe336329260551\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\b4dd6b7762ae6be805a55aba3029579c\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\320d93226fd4b66dd81211d04c2e3623\multidex-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\10574e12de6e960245e30a64fdc94f51\browser-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\18e57bcb535515076ad29bc240d75bee\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\59fb9c62d861abec2dbe096c23020e37\swiperefreshlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-datatransport:17.0.10] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\d88c2bc0c852a28832d987c5d25a0274\jetified-firebase-datatransport-17.0.10\AndroidManifest.xml:15:1-34:12
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\8ebde2a478b398858333f87ca20dfd62\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.firebase:firebase-encoders-json:17.1.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\bba45f3bbb4d1597e5ccc61fb45bc6d0\jetified-firebase-encoders-json-17.1.0\AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.firebase:firebase-iid:21.0.1] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\5d69e4dcef18071f7f3448f56c5d9d1e\jetified-firebase-iid-21.0.1\AndroidManifest.xml:17:1-47:12
+MERGED from [com.google.firebase:firebase-installations:16.3.5] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\45283a17cc678a8d8627a1f9f42d0fa4\jetified-firebase-installations-16.3.5\AndroidManifest.xml:2:1-24:12
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\0a981719fc3212541c4a6d426a392213\jetified-firebase-auth-interop-20.0.0\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-common:20.1.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\68da68ff1e110cc6e700ad4063acf41c\jetified-firebase-common-20.1.0\AndroidManifest.xml:15:1-40:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\905e95ec7e390837cbbdfd7dee055e93\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\87cb5a4cb14912323b5f1a14534b815c\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\ba248d1fe0727e3b50737413f794417c\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\cc29cbedf51b9c892e8e9c6fe1894eff\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\bff8900a2e9542d97bdbe805ac4effde\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\1a872db5951b31502b06c06bd8444a4a\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\1c27ea4c337f52d6d6ad2aa2f597ecb7\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\a60eefe2e595032e2733965ee7b132ca\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\f3e1dd4b206aa8592f701cb9f9edce4f\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\7e27ed114a5e5fe24a021eca972a29c9\jetified-play-services-cloud-messaging-16.0.0\AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\e0f96a7b85a68f8dbde2e159aa73b958\jetified-play-services-iid-17.0.0\AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\4fecda52b3e75e43526923b00688e766\jetified-play-services-stats-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\8cdeccdbea20dbeada64dc8eac49979c\jetified-firebase-measurement-connector-18.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.firebase:firebase-installations-interop:16.0.1] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\9b27f01dcd8f6ce2eeea06e0047b94c5\jetified-firebase-installations-interop-16.0.1\AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.android.gms:play-services-auth:17.0.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\0f13c9e8f6a90961323c2f8cee9288fe\jetified-play-services-auth-17.0.0\AndroidManifest.xml:17:1-39:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\42cde360123466c8b118fcd7bd396413\jetified-play-services-auth-api-phone-17.4.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\c9fe0ccf6a4cb3020b0e1cc5d4250b6a\jetified-play-services-safetynet-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-database-collection:17.0.1] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\275c58891352be0d33728af90e11359e\jetified-firebase-database-collection-17.0.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\bbe78e969bfde27a9ffe9306473396c4\jetified-firebase-iid-interop-17.0.0\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\f79e992336220f20c2369ddbc88c1dd8\jetified-play-services-auth-base-17.0.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\98d39950d062e9c511d689e05d54d7b3\jetified-play-services-base-17.1.0\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\64a51560a6a034e806638909328a7c69\jetified-play-services-tasks-18.0.1\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\28746288e708e9293478bad505943058\jetified-play-services-basement-18.0.0\AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.fragment:fragment:1.2.5] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\143441150d401f852e42cbf0141fe18c\fragment-1.2.5\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\6dd6443c07513fb542c8771ae53bb717\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\ed669b88919d3dc271e8a796c2550a00\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\a7faa49413187265601515ed0706da1d\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\59436ff42934bc25e9ea1abeb970fecd\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\7ff79bc58e4cb25f9b978bf187d800b2\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\425a04be1b48dc998355ab7c1d255c05\jetified-activity-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\dfc26564f60cd66efec1261f8fdfc303\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.1] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\77886c7dcb2bfc54d406fd53734ded1c\core-1.3.1\AndroidManifest.xml:17:1-26:12
+MERGED from [com.google.firebase:firebase-components:17.0.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\47537d44345a4d0c1da160b1758b3c64\jetified-firebase-components-17.0.0\AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\a3a46dda410ebe9e51734856be3d038f\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\a9c58abf9d4900aebe22eb3ab171e3e9\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\c1b144e9c3574f4b7c6a1a0d80431729\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.5] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\22a5bc2fa43479d6ec54af41cd1908f7\jetified-transport-runtime-2.2.5\AndroidManifest.xml:15:1-41:12
+MERGED from [com.google.android.datatransport:transport-api:2.2.1] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\90b9e30652dd29185b2e529615aa7fd0\jetified-transport-api-2.2.1\AndroidManifest.xml:15:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\66fd4ff64d6683ab058259e476842292\jetified-lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\6b4c1a1c885d6ffc51783c1306d1f12a\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\b79bd3d010bb805538bb7c5ff555f6f9\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\c641cbce30b8a0d28298eb4e70cbe202\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\553debe57a00f85af22bb47b1d628100\lifecycle-runtime-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\49a65b16bfb5cd31c62ad14ef815e586\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\69e1b82a03bf71de05a54aedca64af81\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\19f79ea907388b1e0417df818b144efa\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\e2c1c97859d1266f23816cc6cd0370c9\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\a41c4176b9a4809da2a3dada8be678bc\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\10bda25094612e25db07d7a937c44065\jetified-imagepipeline-okhttp3-2.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [org.webkit:android-jsc:r245459] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\6758a995bb4d43a9cdd60b27f1815123\jetified-android-jsc-r245459\AndroidManifest.xml:2:1-11:12
+MERGED from [com.jakewharton.timber:timber:4.7.1] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\3fcdcb3e54f3ceaa44a99cc6fa1bed9a\jetified-timber-4.7.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.squareup.duktape:duktape-android:1.3.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\c92cc2bf1d826da4103f4b74d5731f07\jetified-duktape-android-1.3.0\AndroidManifest.xml:2:1-14:12
+MERGED from [io.grpc:grpc-android:1.28.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\fbf51b481d8dd30fa32fb88bcede2d09\jetified-grpc-android-1.28.0\AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.firebase:protolite-well-known-types:17.1.1] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\88c3cba9f01086be65bdce31e39ee37f\jetified-protolite-well-known-types-17.1.1\AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\484f7243b51218bc7cb57a53fb86f3c3\jetified-fresco-2.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\25fac80aa4a0f86868d341e56d255749\jetified-drawee-2.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\f975641cbed43134eee805d60551327a\jetified-nativeimagefilters-2.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\8a88fa69b6b7157456e1edfc649d0e51\jetified-imagepipeline-2.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\488a32c7a562ae7b4173eef49aa8947f\jetified-nativeimagetranscoder-2.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\58093276845b907781794ae316113397\jetified-imagepipeline-base-2.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\502d89e24eaf79912096542ea7c64b02\jetified-soloader-0.6.0\AndroidManifest.xml:2:1-13:12
+MERGED from [com.amplitude:android-sdk:2.30.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\472cb2878cfda2a56fde56a53903d68d\jetified-android-sdk-2.30.0\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.installreferrer:installreferrer:1.1.2] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\625144836d08b5273a5c71c2a01a643a\jetified-installreferrer-1.1.2\AndroidManifest.xml:2:1-13:12
+MERGED from [com.yqritc:android-scalablevideoview:1.0.4] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\0efb16eff47ecf03ad98faacf1d8c8f0\jetified-android-scalablevideoview-1.0.4\AndroidManifest.xml:2:1-12:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\9d493ec1df8ba3e4e28337cc0148b598\jetified-fbcore-2.0.0\AndroidManifest.xml:2:1-9:12
+INJECTED from C:\Users\soudh\Downloads\Face2Face-App-main\Face2Face-App-main\app\src\main\AndroidManifest.xml:2:1-48:12
+INJECTED from C:\Users\soudh\Downloads\Face2Face-App-main\Face2Face-App-main\app\src\main\AndroidManifest.xml:2:1-48:12
+INJECTED from C:\Users\soudh\Downloads\Face2Face-App-main\Face2Face-App-main\app\src\main\AndroidManifest.xml:2:1-48:12
+	package
+		ADDED from C:\Users\soudh\Downloads\Face2Face-App-main\Face2Face-App-main\app\src\main\AndroidManifest.xml:4:5-36
+		INJECTED from C:\Users\soudh\Downloads\Face2Face-App-main\Face2Face-App-main\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\soudh\Downloads\Face2Face-App-main\Face2Face-App-main\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\soudh\Downloads\Face2Face-App-main\Face2Face-App-main\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\soudh\Downloads\Face2Face-App-main\Face2Face-App-main\app\src\main\AndroidManifest.xml:2:1-48:12
+		INJECTED from C:\Users\soudh\Downloads\Face2Face-App-main\Face2Face-App-main\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\soudh\Downloads\Face2Face-App-main\Face2Face-App-main\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\soudh\Downloads\Face2Face-App-main\Face2Face-App-main\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\soudh\Downloads\Face2Face-App-main\Face2Face-App-main\app\src\main\AndroidManifest.xml:2:1-48:12
+		INJECTED from C:\Users\soudh\Downloads\Face2Face-App-main\Face2Face-App-main\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\soudh\Downloads\Face2Face-App-main\Face2Face-App-main\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\soudh\Downloads\Face2Face-App-main\Face2Face-App-main\app\src\main\AndroidManifest.xml:6:5-44:19
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\9af35b7b766454b744b277a2fed76940\material-1.3.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\9af35b7b766454b744b277a2fed76940\material-1.3.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\c3bb427c732f7f8122ff9d821f641589\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\c3bb427c732f7f8122ff9d821f641589\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [org.jitsi.react:jitsi-meet-sdk:3.10.2] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\f87b4c314a841adcfd86a6d80209411c\jetified-jitsi-meet-sdk-3.10.2\AndroidManifest.xml:32:5-63:19
+MERGED from [org.jitsi.react:jitsi-meet-sdk:3.10.2] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\f87b4c314a841adcfd86a6d80209411c\jetified-jitsi-meet-sdk-3.10.2\AndroidManifest.xml:32:5-63:19
+MERGED from [com.facebook.react:react-native-performance:2.0.0-jitsi-8711917] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\786f1b59a0ed8aa69fcb305e72fd3976\jetified-react-native-performance-2.0.0-jitsi-8711917\AndroidManifest.xml:9:5-14:19
+MERGED from [com.facebook.react:react-native-performance:2.0.0-jitsi-8711917] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\786f1b59a0ed8aa69fcb305e72fd3976\jetified-react-native-performance-2.0.0-jitsi-8711917\AndroidManifest.xml:9:5-14:19
+MERGED from [com.facebook.react:react-native-splash-screen:3.2.0-jitsi-8711917] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\994205efa6578c4504f7f0c7ce691465\jetified-react-native-splash-screen-3.2.0-jitsi-8711917\AndroidManifest.xml:11:5-12:19
+MERGED from [com.facebook.react:react-native-splash-screen:3.2.0-jitsi-8711917] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\994205efa6578c4504f7f0c7ce691465\jetified-react-native-splash-screen-3.2.0-jitsi-8711917\AndroidManifest.xml:11:5-12:19
+MERGED from [com.facebook.react:react-native-webview:11.0.2-jitsi-8711917] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\7788592cfd882718323ccd03b725edf0\jetified-react-native-webview-11.0.2-jitsi-8711917\AndroidManifest.xml:11:5-21:19
+MERGED from [com.facebook.react:react-native-webview:11.0.2-jitsi-8711917] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\7788592cfd882718323ccd03b725edf0\jetified-react-native-webview-11.0.2-jitsi-8711917\AndroidManifest.xml:11:5-21:19
+MERGED from [com.facebook.react:react-native:0.61.5-jitsi.2] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\3aaaefdba9f8f9f0919460349c111e2c\jetified-react-native-0.61.5-jitsi.2\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.61.5-jitsi.2] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\3aaaefdba9f8f9f0919460349c111e2c\jetified-react-native-0.61.5-jitsi.2\AndroidManifest.xml:11:5-20
+MERGED from [com.google.firebase:firebase-messaging:21.0.1] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\9d22dfe104aae82c03ed20d5a67e0bc9\jetified-firebase-messaging-21.0.1\AndroidManifest.xml:22:5-43:19
+MERGED from [com.google.firebase:firebase-messaging:21.0.1] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\9d22dfe104aae82c03ed20d5a67e0bc9\jetified-firebase-messaging-21.0.1\AndroidManifest.xml:22:5-43:19
+MERGED from [com.google.firebase:firebase-firestore:22.1.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\0dc7d0dc5cfbb49c18d11a8ac5cf276a\jetified-firebase-firestore-22.1.0\AndroidManifest.xml:16:5-24:19
+MERGED from [com.google.firebase:firebase-firestore:22.1.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\0dc7d0dc5cfbb49c18d11a8ac5cf276a\jetified-firebase-firestore-22.1.0\AndroidManifest.xml:16:5-24:19
+MERGED from [com.google.firebase:firebase-auth:21.0.3] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\893d160e19d6415da482cbe6ee90126d\jetified-firebase-auth-21.0.3\AndroidManifest.xml:26:5-71:19
+MERGED from [com.google.firebase:firebase-auth:21.0.3] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\893d160e19d6415da482cbe6ee90126d\jetified-firebase-auth-21.0.3\AndroidManifest.xml:26:5-71:19
+MERGED from [com.google.firebase:firebase-datatransport:17.0.10] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\d88c2bc0c852a28832d987c5d25a0274\jetified-firebase-datatransport-17.0.10\AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.firebase:firebase-datatransport:17.0.10] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\d88c2bc0c852a28832d987c5d25a0274\jetified-firebase-datatransport-17.0.10\AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\8ebde2a478b398858333f87ca20dfd62\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\8ebde2a478b398858333f87ca20dfd62\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.firebase:firebase-iid:21.0.1] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\5d69e4dcef18071f7f3448f56c5d9d1e\jetified-firebase-iid-21.0.1\AndroidManifest.xml:28:5-45:19
+MERGED from [com.google.firebase:firebase-iid:21.0.1] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\5d69e4dcef18071f7f3448f56c5d9d1e\jetified-firebase-iid-21.0.1\AndroidManifest.xml:28:5-45:19
+MERGED from [com.google.firebase:firebase-installations:16.3.5] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\45283a17cc678a8d8627a1f9f42d0fa4\jetified-firebase-installations-16.3.5\AndroidManifest.xml:14:5-22:19
+MERGED from [com.google.firebase:firebase-installations:16.3.5] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\45283a17cc678a8d8627a1f9f42d0fa4\jetified-firebase-installations-16.3.5\AndroidManifest.xml:14:5-22:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\0a981719fc3212541c4a6d426a392213\jetified-firebase-auth-interop-20.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\0a981719fc3212541c4a6d426a392213\jetified-firebase-auth-interop-20.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-common:20.1.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\68da68ff1e110cc6e700ad4063acf41c\jetified-firebase-common-20.1.0\AndroidManifest.xml:25:5-38:19
+MERGED from [com.google.firebase:firebase-common:20.1.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\68da68ff1e110cc6e700ad4063acf41c\jetified-firebase-common-20.1.0\AndroidManifest.xml:25:5-38:19
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\e0f96a7b85a68f8dbde2e159aa73b958\jetified-play-services-iid-17.0.0\AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\e0f96a7b85a68f8dbde2e159aa73b958\jetified-play-services-iid-17.0.0\AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\4fecda52b3e75e43526923b00688e766\jetified-play-services-stats-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\4fecda52b3e75e43526923b00688e766\jetified-play-services-stats-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\8cdeccdbea20dbeada64dc8eac49979c\jetified-firebase-measurement-connector-18.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\8cdeccdbea20dbeada64dc8eac49979c\jetified-firebase-measurement-connector-18.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-auth:17.0.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\0f13c9e8f6a90961323c2f8cee9288fe\jetified-play-services-auth-17.0.0\AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-auth:17.0.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\0f13c9e8f6a90961323c2f8cee9288fe\jetified-play-services-auth-17.0.0\AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\c9fe0ccf6a4cb3020b0e1cc5d4250b6a\jetified-play-services-safetynet-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\c9fe0ccf6a4cb3020b0e1cc5d4250b6a\jetified-play-services-safetynet-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\bbe78e969bfde27a9ffe9306473396c4\jetified-firebase-iid-interop-17.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\bbe78e969bfde27a9ffe9306473396c4\jetified-firebase-iid-interop-17.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\98d39950d062e9c511d689e05d54d7b3\jetified-play-services-base-17.1.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\98d39950d062e9c511d689e05d54d7b3\jetified-play-services-base-17.1.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\64a51560a6a034e806638909328a7c69\jetified-play-services-tasks-18.0.1\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\64a51560a6a034e806638909328a7c69\jetified-play-services-tasks-18.0.1\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\28746288e708e9293478bad505943058\jetified-play-services-basement-18.0.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\28746288e708e9293478bad505943058\jetified-play-services-basement-18.0.0\AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.core:core:1.3.1] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\77886c7dcb2bfc54d406fd53734ded1c\core-1.3.1\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.1] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\77886c7dcb2bfc54d406fd53734ded1c\core-1.3.1\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\c1b144e9c3574f4b7c6a1a0d80431729\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\c1b144e9c3574f4b7c6a1a0d80431729\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.5] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\22a5bc2fa43479d6ec54af41cd1908f7\jetified-transport-runtime-2.2.5\AndroidManifest.xml:25:5-39:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.5] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\22a5bc2fa43479d6ec54af41cd1908f7\jetified-transport-runtime-2.2.5\AndroidManifest.xml:25:5-39:19
+MERGED from [com.jakewharton.timber:timber:4.7.1] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\3fcdcb3e54f3ceaa44a99cc6fa1bed9a\jetified-timber-4.7.1\AndroidManifest.xml:7:5-20
+MERGED from [com.jakewharton.timber:timber:4.7.1] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\3fcdcb3e54f3ceaa44a99cc6fa1bed9a\jetified-timber-4.7.1\AndroidManifest.xml:7:5-20
+MERGED from [com.squareup.duktape:duktape-android:1.3.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\c92cc2bf1d826da4103f4b74d5731f07\jetified-duktape-android-1.3.0\AndroidManifest.xml:12:5-20
+MERGED from [com.squareup.duktape:duktape-android:1.3.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\c92cc2bf1d826da4103f4b74d5731f07\jetified-duktape-android-1.3.0\AndroidManifest.xml:12:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\502d89e24eaf79912096542ea7c64b02\jetified-soloader-0.6.0\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\502d89e24eaf79912096542ea7c64b02\jetified-soloader-0.6.0\AndroidManifest.xml:11:5-20
+MERGED from [com.android.installreferrer:installreferrer:1.1.2] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\625144836d08b5273a5c71c2a01a643a\jetified-installreferrer-1.1.2\AndroidManifest.xml:11:5-20
+MERGED from [com.android.installreferrer:installreferrer:1.1.2] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\625144836d08b5273a5c71c2a01a643a\jetified-installreferrer-1.1.2\AndroidManifest.xml:11:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.1] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\77886c7dcb2bfc54d406fd53734ded1c\core-1.3.1\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\soudh\Downloads\Face2Face-App-main\Face2Face-App-main\app\src\main\AndroidManifest.xml:11:9-35
+	android:label
+		ADDED from C:\Users\soudh\Downloads\Face2Face-App-main\Face2Face-App-main\app\src\main\AndroidManifest.xml:9:9-41
+	android:roundIcon
+		ADDED from C:\Users\soudh\Downloads\Face2Face-App-main\Face2Face-App-main\app\src\main\AndroidManifest.xml:10:9-54
+	tools:targetApi
+		ADDED from C:\Users\soudh\Downloads\Face2Face-App-main\Face2Face-App-main\app\src\main\AndroidManifest.xml:14:9-28
+	android:icon
+		ADDED from C:\Users\soudh\Downloads\Face2Face-App-main\Face2Face-App-main\app\src\main\AndroidManifest.xml:8:9-43
+	android:allowBackup
+		ADDED from C:\Users\soudh\Downloads\Face2Face-App-main\Face2Face-App-main\app\src\main\AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from C:\Users\soudh\Downloads\Face2Face-App-main\Face2Face-App-main\app\src\main\AndroidManifest.xml:12:9-47
+	android:usesCleartextTraffic
+		ADDED from C:\Users\soudh\Downloads\Face2Face-App-main\Face2Face-App-main\app\src\main\AndroidManifest.xml:13:9-44
+activity#com.example.face2face.activities.OutgoingInvitationActivity
+ADDED from C:\Users\soudh\Downloads\Face2Face-App-main\Face2Face-App-main\app\src\main\AndroidManifest.xml:15:9-16:61
+	android:screenOrientation
+		ADDED from C:\Users\soudh\Downloads\Face2Face-App-main\Face2Face-App-main\app\src\main\AndroidManifest.xml:16:13-49
+	android:name
+		ADDED from C:\Users\soudh\Downloads\Face2Face-App-main\Face2Face-App-main\app\src\main\AndroidManifest.xml:15:19-72
+activity#com.example.face2face.activities.IncomingInvitationActivity
+ADDED from C:\Users\soudh\Downloads\Face2Face-App-main\Face2Face-App-main\app\src\main\AndroidManifest.xml:17:9-18:51
+	android:screenOrientation
+		ADDED from C:\Users\soudh\Downloads\Face2Face-App-main\Face2Face-App-main\app\src\main\AndroidManifest.xml:18:13-49
+	android:name
+		ADDED from C:\Users\soudh\Downloads\Face2Face-App-main\Face2Face-App-main\app\src\main\AndroidManifest.xml:17:19-72
+activity#com.example.face2face.activities.SignInActivity
+ADDED from C:\Users\soudh\Downloads\Face2Face-App-main\Face2Face-App-main\app\src\main\AndroidManifest.xml:19:9-28:20
+	android:screenOrientation
+		ADDED from C:\Users\soudh\Downloads\Face2Face-App-main\Face2Face-App-main\app\src\main\AndroidManifest.xml:21:13-49
+	android:windowSoftInputMode
+		ADDED from C:\Users\soudh\Downloads\Face2Face-App-main\Face2Face-App-main\app\src\main\AndroidManifest.xml:22:13-55
+	android:name
+		ADDED from C:\Users\soudh\Downloads\Face2Face-App-main\Face2Face-App-main\app\src\main\AndroidManifest.xml:20:13-54
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\soudh\Downloads\Face2Face-App-main\Face2Face-App-main\app\src\main\AndroidManifest.xml:23:13-27:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\soudh\Downloads\Face2Face-App-main\Face2Face-App-main\app\src\main\AndroidManifest.xml:24:17-69
+	android:name
+		ADDED from C:\Users\soudh\Downloads\Face2Face-App-main\Face2Face-App-main\app\src\main\AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\soudh\Downloads\Face2Face-App-main\Face2Face-App-main\app\src\main\AndroidManifest.xml:26:17-77
+	android:name
+		ADDED from C:\Users\soudh\Downloads\Face2Face-App-main\Face2Face-App-main\app\src\main\AndroidManifest.xml:26:27-74
+activity#com.example.face2face.activities.SignUpActivity
+ADDED from C:\Users\soudh\Downloads\Face2Face-App-main\Face2Face-App-main\app\src\main\AndroidManifest.xml:29:9-32:58
+	android:screenOrientation
+		ADDED from C:\Users\soudh\Downloads\Face2Face-App-main\Face2Face-App-main\app\src\main\AndroidManifest.xml:31:13-49
+	android:windowSoftInputMode
+		ADDED from C:\Users\soudh\Downloads\Face2Face-App-main\Face2Face-App-main\app\src\main\AndroidManifest.xml:32:13-55
+	android:name
+		ADDED from C:\Users\soudh\Downloads\Face2Face-App-main\Face2Face-App-main\app\src\main\AndroidManifest.xml:30:13-54
+activity#com.example.face2face.activities.MainActivity
+ADDED from C:\Users\soudh\Downloads\Face2Face-App-main\Face2Face-App-main\app\src\main\AndroidManifest.xml:33:9-35:52
+	android:screenOrientation
+		ADDED from C:\Users\soudh\Downloads\Face2Face-App-main\Face2Face-App-main\app\src\main\AndroidManifest.xml:35:13-49
+	android:name
+		ADDED from C:\Users\soudh\Downloads\Face2Face-App-main\Face2Face-App-main\app\src\main\AndroidManifest.xml:34:13-52
+service#com.example.face2face.firebase.MyFirebaseMessagingService
+ADDED from C:\Users\soudh\Downloads\Face2Face-App-main\Face2Face-App-main\app\src\main\AndroidManifest.xml:37:9-43:19
+	android:exported
+		ADDED from C:\Users\soudh\Downloads\Face2Face-App-main\Face2Face-App-main\app\src\main\AndroidManifest.xml:39:13-37
+	android:name
+		ADDED from C:\Users\soudh\Downloads\Face2Face-App-main\Face2Face-App-main\app\src\main\AndroidManifest.xml:38:13-64
+intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
+ADDED from C:\Users\soudh\Downloads\Face2Face-App-main\Face2Face-App-main\app\src\main\AndroidManifest.xml:40:13-42:29
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from C:\Users\soudh\Downloads\Face2Face-App-main\Face2Face-App-main\app\src\main\AndroidManifest.xml:41:17-80
+	android:name
+		ADDED from C:\Users\soudh\Downloads\Face2Face-App-main\Face2Face-App-main\app\src\main\AndroidManifest.xml:41:25-77
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\soudh\Downloads\Face2Face-App-main\Face2Face-App-main\app\src\main\AndroidManifest.xml:46:5-67
+MERGED from [org.jitsi.react:jitsi-meet-sdk:3.10.2] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\f87b4c314a841adcfd86a6d80209411c\jetified-jitsi-meet-sdk-3.10.2\AndroidManifest.xml:13:5-67
+MERGED from [org.jitsi.react:jitsi-meet-sdk:3.10.2] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\f87b4c314a841adcfd86a6d80209411c\jetified-jitsi-meet-sdk-3.10.2\AndroidManifest.xml:13:5-67
+MERGED from [com.google.firebase:firebase-firestore:22.1.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\0dc7d0dc5cfbb49c18d11a8ac5cf276a\jetified-firebase-firestore-22.1.0\AndroidManifest.xml:14:5-67
+MERGED from [com.google.firebase:firebase-firestore:22.1.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\0dc7d0dc5cfbb49c18d11a8ac5cf276a\jetified-firebase-firestore-22.1.0\AndroidManifest.xml:14:5-67
+MERGED from [com.google.firebase:firebase-auth:21.0.3] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\893d160e19d6415da482cbe6ee90126d\jetified-firebase-auth-21.0.3\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-auth:21.0.3] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\893d160e19d6415da482cbe6ee90126d\jetified-firebase-auth-21.0.3\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\8ebde2a478b398858333f87ca20dfd62\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:26:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\8ebde2a478b398858333f87ca20dfd62\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:26:5-67
+MERGED from [com.google.firebase:firebase-iid:21.0.1] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\5d69e4dcef18071f7f3448f56c5d9d1e\jetified-firebase-iid-21.0.1\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:21.0.1] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\5d69e4dcef18071f7f3448f56c5d9d1e\jetified-firebase-iid-21.0.1\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-installations:16.3.5] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\45283a17cc678a8d8627a1f9f42d0fa4\jetified-firebase-installations-16.3.5\AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-installations:16.3.5] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\45283a17cc678a8d8627a1f9f42d0fa4\jetified-firebase-installations-16.3.5\AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\7e27ed114a5e5fe24a021eca972a29c9\jetified-play-services-cloud-messaging-16.0.0\AndroidManifest.xml:8:5-67
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\7e27ed114a5e5fe24a021eca972a29c9\jetified-play-services-cloud-messaging-16.0.0\AndroidManifest.xml:8:5-67
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\e0f96a7b85a68f8dbde2e159aa73b958\jetified-play-services-iid-17.0.0\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\e0f96a7b85a68f8dbde2e159aa73b958\jetified-play-services-iid-17.0.0\AndroidManifest.xml:24:5-67
+MERGED from [com.amplitude:android-sdk:2.30.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\472cb2878cfda2a56fde56a53903d68d\jetified-android-sdk-2.30.0\AndroidManifest.xml:9:5-67
+MERGED from [com.amplitude:android-sdk:2.30.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\472cb2878cfda2a56fde56a53903d68d\jetified-android-sdk-2.30.0\AndroidManifest.xml:9:5-67
+	android:name
+		ADDED from C:\Users\soudh\Downloads\Face2Face-App-main\Face2Face-App-main\app\src\main\AndroidManifest.xml:46:22-64
+uses-sdk
+INJECTED from C:\Users\soudh\Downloads\Face2Face-App-main\Face2Face-App-main\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\soudh\Downloads\Face2Face-App-main\Face2Face-App-main\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\soudh\Downloads\Face2Face-App-main\Face2Face-App-main\app\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:4.1.2] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\129bc04b4d8f9c06f27a44fd06150c77\jetified-viewbinding-4.1.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:viewbinding:4.1.2] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\129bc04b4d8f9c06f27a44fd06150c77\jetified-viewbinding-4.1.2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\9af35b7b766454b744b277a2fed76940\material-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\9af35b7b766454b744b277a2fed76940\material-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\c3bb427c732f7f8122ff9d821f641589\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\c3bb427c732f7f8122ff9d821f641589\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [org.jitsi.react:jitsi-meet-sdk:3.10.2] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\f87b4c314a841adcfd86a6d80209411c\jetified-jitsi-meet-sdk-3.10.2\AndroidManifest.xml:6:5-8:41
+MERGED from [org.jitsi.react:jitsi-meet-sdk:3.10.2] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\f87b4c314a841adcfd86a6d80209411c\jetified-jitsi-meet-sdk-3.10.2\AndroidManifest.xml:6:5-8:41
+MERGED from [com.facebook.react:react-native-amplitude:2.3.3-jitsi-8711917] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\afe695165ee81f6a733ca46e59582859\jetified-react-native-amplitude-2.3.3-jitsi-8711917\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native-amplitude:2.3.3-jitsi-8711917] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\afe695165ee81f6a733ca46e59582859\jetified-react-native-amplitude-2.3.3-jitsi-8711917\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native-device-info:8.0.0-jitsi-8711917] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\2b0531e27fa5c0791df917ba7b33580f\jetified-react-native-device-info-8.0.0-jitsi-8711917\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native-device-info:8.0.0-jitsi-8711917] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\2b0531e27fa5c0791df917ba7b33580f\jetified-react-native-device-info-8.0.0-jitsi-8711917\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native-google-signin:3.0.1-jitsi-8711917] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\67401f6d00b38719961341c721464418\jetified-react-native-google-signin-3.0.1-jitsi-8711917\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native-google-signin:3.0.1-jitsi-8711917] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\67401f6d00b38719961341c721464418\jetified-react-native-google-signin-3.0.1-jitsi-8711917\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native-async-storage:1.15.5-jitsi-8711917] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\af12172abc8e33621cc273bcea44cbfb\jetified-react-native-async-storage-1.15.5-jitsi-8711917\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.react:react-native-async-storage:1.15.5-jitsi-8711917] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\af12172abc8e33621cc273bcea44cbfb\jetified-react-native-async-storage-1.15.5-jitsi-8711917\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.react:react-native-background-timer:2.4.0-jitsi-8711917] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\8bb29311c840f0463310cfc235444bb7\jetified-react-native-background-timer-2.4.0-jitsi-8711917\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native-background-timer:2.4.0-jitsi-8711917] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\8bb29311c840f0463310cfc235444bb7\jetified-react-native-background-timer-2.4.0-jitsi-8711917\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native-calendar-events:2.0.0-jitsi-8711917] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\805ef81bb71a78d37146202d4b3c8c9e\jetified-react-native-calendar-events-2.0.0-jitsi-8711917\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native-calendar-events:2.0.0-jitsi-8711917] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\805ef81bb71a78d37146202d4b3c8c9e\jetified-react-native-calendar-events-2.0.0-jitsi-8711917\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native-community_netinfo:4.1.5-jitsi-8711917] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\9627468fae8ce27b6cad3cada140439b\jetified-react-native-community_netinfo-4.1.5-jitsi-8711917\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.react:react-native-community_netinfo:4.1.5-jitsi-8711917] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\9627468fae8ce27b6cad3cada140439b\jetified-react-native-community_netinfo-4.1.5-jitsi-8711917\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.react:react-native-default-preference:1.4.2-jitsi-8711917] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\507f8293f6f780611f53d145fba454c7\jetified-react-native-default-preference-1.4.2-jitsi-8711917\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native-default-preference:1.4.2-jitsi-8711917] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\507f8293f6f780611f53d145fba454c7\jetified-react-native-default-preference-1.4.2-jitsi-8711917\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native-immersive:2.0.0-jitsi-8711917] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\d32cf314435406a70afad820f5091e59\jetified-react-native-immersive-2.0.0-jitsi-8711917\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native-immersive:2.0.0-jitsi-8711917] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\d32cf314435406a70afad820f5091e59\jetified-react-native-immersive-2.0.0-jitsi-8711917\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native-keep-awake:4.0.0-jitsi-8711917] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\721cddf0c1353bdbca82eb6e5d849fb0\jetified-react-native-keep-awake-4.0.0-jitsi-8711917\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native-keep-awake:4.0.0-jitsi-8711917] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\721cddf0c1353bdbca82eb6e5d849fb0\jetified-react-native-keep-awake-4.0.0-jitsi-8711917\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native-performance:2.0.0-jitsi-8711917] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\786f1b59a0ed8aa69fcb305e72fd3976\jetified-react-native-performance-2.0.0-jitsi-8711917\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.react:react-native-performance:2.0.0-jitsi-8711917] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\786f1b59a0ed8aa69fcb305e72fd3976\jetified-react-native-performance-2.0.0-jitsi-8711917\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.react:react-native-slider:3.0.3-jitsi-8711917] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\0c3b6255dd4e5c360176099b3df2d540\jetified-react-native-slider-3.0.3-jitsi-8711917\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.react:react-native-slider:3.0.3-jitsi-8711917] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\0c3b6255dd4e5c360176099b3df2d540\jetified-react-native-slider-3.0.3-jitsi-8711917\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.react:react-native-sound:0.11.0-jitsi-8711917] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\eb5538973fbdb99d8951a03c57232c77\jetified-react-native-sound-0.11.0-jitsi-8711917\AndroidManifest.xml:8:5-10:41
+MERGED from [com.facebook.react:react-native-sound:0.11.0-jitsi-8711917] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\eb5538973fbdb99d8951a03c57232c77\jetified-react-native-sound-0.11.0-jitsi-8711917\AndroidManifest.xml:8:5-10:41
+MERGED from [com.facebook.react:react-native-splash-screen:3.2.0-jitsi-8711917] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\994205efa6578c4504f7f0c7ce691465\jetified-react-native-splash-screen-3.2.0-jitsi-8711917\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native-splash-screen:3.2.0-jitsi-8711917] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\994205efa6578c4504f7f0c7ce691465\jetified-react-native-splash-screen-3.2.0-jitsi-8711917\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native-svg:12.1.0-jitsi-8711917] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\dec34014321326002f2be6994e68346d\jetified-react-native-svg-12.1.0-jitsi-8711917\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.react:react-native-svg:12.1.0-jitsi-8711917] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\dec34014321326002f2be6994e68346d\jetified-react-native-svg-12.1.0-jitsi-8711917\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.react:react-native-video:5.1.1-jitsi-8711917] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\1525c10006ed6afa5167f5175de2290f\jetified-react-native-video-5.1.1-jitsi-8711917\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native-video:5.1.1-jitsi-8711917] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\1525c10006ed6afa5167f5175de2290f\jetified-react-native-video-5.1.1-jitsi-8711917\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native-webrtc:1.92.2-jitsi-8711917] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\4004367c7775646216a59ee231d40908\jetified-react-native-webrtc-1.92.2-jitsi-8711917\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native-webrtc:1.92.2-jitsi-8711917] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\4004367c7775646216a59ee231d40908\jetified-react-native-webrtc-1.92.2-jitsi-8711917\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native-webview:11.0.2-jitsi-8711917] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\7788592cfd882718323ccd03b725edf0\jetified-react-native-webview-11.0.2-jitsi-8711917\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native-webview:11.0.2-jitsi-8711917] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\7788592cfd882718323ccd03b725edf0\jetified-react-native-webview-11.0.2-jitsi-8711917\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.5-jitsi.2] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\3aaaefdba9f8f9f0919460349c111e2c\jetified-react-native-0.61.5-jitsi.2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.5-jitsi.2] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\3aaaefdba9f8f9f0919460349c111e2c\jetified-react-native-0.61.5-jitsi.2\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\d57bdb6453df122706080a7d48d457e3\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\d57bdb6453df122706080a7d48d457e3\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-messaging:21.0.1] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\9d22dfe104aae82c03ed20d5a67e0bc9\jetified-firebase-messaging-21.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:21.0.1] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\9d22dfe104aae82c03ed20d5a67e0bc9\jetified-firebase-messaging-21.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-firestore:22.1.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\0dc7d0dc5cfbb49c18d11a8ac5cf276a\jetified-firebase-firestore-22.1.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-firestore:22.1.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\0dc7d0dc5cfbb49c18d11a8ac5cf276a\jetified-firebase-firestore-22.1.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-auth:21.0.3] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\893d160e19d6415da482cbe6ee90126d\jetified-firebase-auth-21.0.3\AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-auth:21.0.3] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\893d160e19d6415da482cbe6ee90126d\jetified-firebase-auth-21.0.3\AndroidManifest.xml:21:5-44
+MERGED from [com.intuit.sdp:sdp-android:1.0.6] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\544d301fc9e2fcb8df0d0b716cf6b605\jetified-sdp-android-1.0.6\AndroidManifest.xml:7:5-9:41
+MERGED from [com.intuit.sdp:sdp-android:1.0.6] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\544d301fc9e2fcb8df0d0b716cf6b605\jetified-sdp-android-1.0.6\AndroidManifest.xml:7:5-9:41
+MERGED from [com.intuit.ssp:ssp-android:1.0.6] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\95e999105d9f4f9bd65f5a1c0b747313\jetified-ssp-android-1.0.6\AndroidManifest.xml:7:5-9:41
+MERGED from [com.intuit.ssp:ssp-android:1.0.6] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\95e999105d9f4f9bd65f5a1c0b747313\jetified-ssp-android-1.0.6\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\d2e4df9a233f773c6ffe336329260551\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\d2e4df9a233f773c6ffe336329260551\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\b4dd6b7762ae6be805a55aba3029579c\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\b4dd6b7762ae6be805a55aba3029579c\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\320d93226fd4b66dd81211d04c2e3623\multidex-2.0.0\AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\320d93226fd4b66dd81211d04c2e3623\multidex-2.0.0\AndroidManifest.xml:20:5-43
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\10574e12de6e960245e30a64fdc94f51\browser-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\10574e12de6e960245e30a64fdc94f51\browser-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\18e57bcb535515076ad29bc240d75bee\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\18e57bcb535515076ad29bc240d75bee\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\59fb9c62d861abec2dbe096c23020e37\swiperefreshlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\59fb9c62d861abec2dbe096c23020e37\swiperefreshlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-datatransport:17.0.10] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\d88c2bc0c852a28832d987c5d25a0274\jetified-firebase-datatransport-17.0.10\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-datatransport:17.0.10] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\d88c2bc0c852a28832d987c5d25a0274\jetified-firebase-datatransport-17.0.10\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\8ebde2a478b398858333f87ca20dfd62\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\8ebde2a478b398858333f87ca20dfd62\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:17.1.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\bba45f3bbb4d1597e5ccc61fb45bc6d0\jetified-firebase-encoders-json-17.1.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:17.1.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\bba45f3bbb4d1597e5ccc61fb45bc6d0\jetified-firebase-encoders-json-17.1.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-iid:21.0.1] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\5d69e4dcef18071f7f3448f56c5d9d1e\jetified-firebase-iid-21.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:21.0.1] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\5d69e4dcef18071f7f3448f56c5d9d1e\jetified-firebase-iid-21.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-installations:16.3.5] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\45283a17cc678a8d8627a1f9f42d0fa4\jetified-firebase-installations-16.3.5\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-installations:16.3.5] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\45283a17cc678a8d8627a1f9f42d0fa4\jetified-firebase-installations-16.3.5\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\0a981719fc3212541c4a6d426a392213\jetified-firebase-auth-interop-20.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\0a981719fc3212541c4a6d426a392213\jetified-firebase-auth-interop-20.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:20.1.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\68da68ff1e110cc6e700ad4063acf41c\jetified-firebase-common-20.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-common:20.1.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\68da68ff1e110cc6e700ad4063acf41c\jetified-firebase-common-20.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\905e95ec7e390837cbbdfd7dee055e93\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\905e95ec7e390837cbbdfd7dee055e93\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\87cb5a4cb14912323b5f1a14534b815c\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\87cb5a4cb14912323b5f1a14534b815c\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\ba248d1fe0727e3b50737413f794417c\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\ba248d1fe0727e3b50737413f794417c\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\cc29cbedf51b9c892e8e9c6fe1894eff\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\cc29cbedf51b9c892e8e9c6fe1894eff\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\bff8900a2e9542d97bdbe805ac4effde\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\bff8900a2e9542d97bdbe805ac4effde\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\1a872db5951b31502b06c06bd8444a4a\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\1a872db5951b31502b06c06bd8444a4a\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\1c27ea4c337f52d6d6ad2aa2f597ecb7\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\1c27ea4c337f52d6d6ad2aa2f597ecb7\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\a60eefe2e595032e2733965ee7b132ca\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\a60eefe2e595032e2733965ee7b132ca\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\f3e1dd4b206aa8592f701cb9f9edce4f\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\f3e1dd4b206aa8592f701cb9f9edce4f\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\7e27ed114a5e5fe24a021eca972a29c9\jetified-play-services-cloud-messaging-16.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\7e27ed114a5e5fe24a021eca972a29c9\jetified-play-services-cloud-messaging-16.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\e0f96a7b85a68f8dbde2e159aa73b958\jetified-play-services-iid-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\e0f96a7b85a68f8dbde2e159aa73b958\jetified-play-services-iid-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\4fecda52b3e75e43526923b00688e766\jetified-play-services-stats-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\4fecda52b3e75e43526923b00688e766\jetified-play-services-stats-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\8cdeccdbea20dbeada64dc8eac49979c\jetified-firebase-measurement-connector-18.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\8cdeccdbea20dbeada64dc8eac49979c\jetified-firebase-measurement-connector-18.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-installations-interop:16.0.1] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\9b27f01dcd8f6ce2eeea06e0047b94c5\jetified-firebase-installations-interop-16.0.1\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-installations-interop:16.0.1] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\9b27f01dcd8f6ce2eeea06e0047b94c5\jetified-firebase-installations-interop-16.0.1\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.gms:play-services-auth:17.0.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\0f13c9e8f6a90961323c2f8cee9288fe\jetified-play-services-auth-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:17.0.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\0f13c9e8f6a90961323c2f8cee9288fe\jetified-play-services-auth-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\42cde360123466c8b118fcd7bd396413\jetified-play-services-auth-api-phone-17.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\42cde360123466c8b118fcd7bd396413\jetified-play-services-auth-api-phone-17.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\c9fe0ccf6a4cb3020b0e1cc5d4250b6a\jetified-play-services-safetynet-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\c9fe0ccf6a4cb3020b0e1cc5d4250b6a\jetified-play-services-safetynet-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-collection:17.0.1] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\275c58891352be0d33728af90e11359e\jetified-firebase-database-collection-17.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-database-collection:17.0.1] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\275c58891352be0d33728af90e11359e\jetified-firebase-database-collection-17.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\bbe78e969bfde27a9ffe9306473396c4\jetified-firebase-iid-interop-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\bbe78e969bfde27a9ffe9306473396c4\jetified-firebase-iid-interop-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\f79e992336220f20c2369ddbc88c1dd8\jetified-play-services-auth-base-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\f79e992336220f20c2369ddbc88c1dd8\jetified-play-services-auth-base-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\98d39950d062e9c511d689e05d54d7b3\jetified-play-services-base-17.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\98d39950d062e9c511d689e05d54d7b3\jetified-play-services-base-17.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\64a51560a6a034e806638909328a7c69\jetified-play-services-tasks-18.0.1\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\64a51560a6a034e806638909328a7c69\jetified-play-services-tasks-18.0.1\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\28746288e708e9293478bad505943058\jetified-play-services-basement-18.0.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\28746288e708e9293478bad505943058\jetified-play-services-basement-18.0.0\AndroidManifest.xml:18:5-43
+MERGED from [androidx.fragment:fragment:1.2.5] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\143441150d401f852e42cbf0141fe18c\fragment-1.2.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.5] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\143441150d401f852e42cbf0141fe18c\fragment-1.2.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\6dd6443c07513fb542c8771ae53bb717\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\6dd6443c07513fb542c8771ae53bb717\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\ed669b88919d3dc271e8a796c2550a00\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\ed669b88919d3dc271e8a796c2550a00\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\a7faa49413187265601515ed0706da1d\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\a7faa49413187265601515ed0706da1d\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\59436ff42934bc25e9ea1abeb970fecd\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\59436ff42934bc25e9ea1abeb970fecd\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\7ff79bc58e4cb25f9b978bf187d800b2\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\7ff79bc58e4cb25f9b978bf187d800b2\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\425a04be1b48dc998355ab7c1d255c05\jetified-activity-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\425a04be1b48dc998355ab7c1d255c05\jetified-activity-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\dfc26564f60cd66efec1261f8fdfc303\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\dfc26564f60cd66efec1261f8fdfc303\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.1] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\77886c7dcb2bfc54d406fd53734ded1c\core-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.1] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\77886c7dcb2bfc54d406fd53734ded1c\core-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-components:17.0.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\47537d44345a4d0c1da160b1758b3c64\jetified-firebase-components-17.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:17.0.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\47537d44345a4d0c1da160b1758b3c64\jetified-firebase-components-17.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\a3a46dda410ebe9e51734856be3d038f\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\a3a46dda410ebe9e51734856be3d038f\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\a9c58abf9d4900aebe22eb3ab171e3e9\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\a9c58abf9d4900aebe22eb3ab171e3e9\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\c1b144e9c3574f4b7c6a1a0d80431729\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\c1b144e9c3574f4b7c6a1a0d80431729\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.5] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\22a5bc2fa43479d6ec54af41cd1908f7\jetified-transport-runtime-2.2.5\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.5] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\22a5bc2fa43479d6ec54af41cd1908f7\jetified-transport-runtime-2.2.5\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:2.2.1] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\90b9e30652dd29185b2e529615aa7fd0\jetified-transport-api-2.2.1\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:2.2.1] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\90b9e30652dd29185b2e529615aa7fd0\jetified-transport-api-2.2.1\AndroidManifest.xml:18:5-20:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\66fd4ff64d6683ab058259e476842292\jetified-lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\66fd4ff64d6683ab058259e476842292\jetified-lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\6b4c1a1c885d6ffc51783c1306d1f12a\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\6b4c1a1c885d6ffc51783c1306d1f12a\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\b79bd3d010bb805538bb7c5ff555f6f9\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\b79bd3d010bb805538bb7c5ff555f6f9\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\c641cbce30b8a0d28298eb4e70cbe202\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\c641cbce30b8a0d28298eb4e70cbe202\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\553debe57a00f85af22bb47b1d628100\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\553debe57a00f85af22bb47b1d628100\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\49a65b16bfb5cd31c62ad14ef815e586\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\49a65b16bfb5cd31c62ad14ef815e586\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\69e1b82a03bf71de05a54aedca64af81\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\69e1b82a03bf71de05a54aedca64af81\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\19f79ea907388b1e0417df818b144efa\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\19f79ea907388b1e0417df818b144efa\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\e2c1c97859d1266f23816cc6cd0370c9\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\e2c1c97859d1266f23816cc6cd0370c9\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\a41c4176b9a4809da2a3dada8be678bc\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\a41c4176b9a4809da2a3dada8be678bc\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\10bda25094612e25db07d7a937c44065\jetified-imagepipeline-okhttp3-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\10bda25094612e25db07d7a937c44065\jetified-imagepipeline-okhttp3-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [org.webkit:android-jsc:r245459] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\6758a995bb4d43a9cdd60b27f1815123\jetified-android-jsc-r245459\AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\6758a995bb4d43a9cdd60b27f1815123\jetified-android-jsc-r245459\AndroidManifest.xml:7:5-9:41
+MERGED from [com.jakewharton.timber:timber:4.7.1] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\3fcdcb3e54f3ceaa44a99cc6fa1bed9a\jetified-timber-4.7.1\AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton.timber:timber:4.7.1] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\3fcdcb3e54f3ceaa44a99cc6fa1bed9a\jetified-timber-4.7.1\AndroidManifest.xml:5:5-43
+MERGED from [com.squareup.duktape:duktape-android:1.3.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\c92cc2bf1d826da4103f4b74d5731f07\jetified-duktape-android-1.3.0\AndroidManifest.xml:8:5-10:41
+MERGED from [com.squareup.duktape:duktape-android:1.3.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\c92cc2bf1d826da4103f4b74d5731f07\jetified-duktape-android-1.3.0\AndroidManifest.xml:8:5-10:41
+MERGED from [io.grpc:grpc-android:1.28.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\fbf51b481d8dd30fa32fb88bcede2d09\jetified-grpc-android-1.28.0\AndroidManifest.xml:7:5-9:41
+MERGED from [io.grpc:grpc-android:1.28.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\fbf51b481d8dd30fa32fb88bcede2d09\jetified-grpc-android-1.28.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:protolite-well-known-types:17.1.1] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\88c3cba9f01086be65bdce31e39ee37f\jetified-protolite-well-known-types-17.1.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:protolite-well-known-types:17.1.1] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\88c3cba9f01086be65bdce31e39ee37f\jetified-protolite-well-known-types-17.1.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\484f7243b51218bc7cb57a53fb86f3c3\jetified-fresco-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\484f7243b51218bc7cb57a53fb86f3c3\jetified-fresco-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\25fac80aa4a0f86868d341e56d255749\jetified-drawee-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\25fac80aa4a0f86868d341e56d255749\jetified-drawee-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\f975641cbed43134eee805d60551327a\jetified-nativeimagefilters-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\f975641cbed43134eee805d60551327a\jetified-nativeimagefilters-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\8a88fa69b6b7157456e1edfc649d0e51\jetified-imagepipeline-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\8a88fa69b6b7157456e1edfc649d0e51\jetified-imagepipeline-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\488a32c7a562ae7b4173eef49aa8947f\jetified-nativeimagetranscoder-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\488a32c7a562ae7b4173eef49aa8947f\jetified-nativeimagetranscoder-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\58093276845b907781794ae316113397\jetified-imagepipeline-base-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\58093276845b907781794ae316113397\jetified-imagepipeline-base-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\502d89e24eaf79912096542ea7c64b02\jetified-soloader-0.6.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\502d89e24eaf79912096542ea7c64b02\jetified-soloader-0.6.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.amplitude:android-sdk:2.30.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\472cb2878cfda2a56fde56a53903d68d\jetified-android-sdk-2.30.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.amplitude:android-sdk:2.30.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\472cb2878cfda2a56fde56a53903d68d\jetified-android-sdk-2.30.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.installreferrer:installreferrer:1.1.2] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\625144836d08b5273a5c71c2a01a643a\jetified-installreferrer-1.1.2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.installreferrer:installreferrer:1.1.2] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\625144836d08b5273a5c71c2a01a643a\jetified-installreferrer-1.1.2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.yqritc:android-scalablevideoview:1.0.4] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\0efb16eff47ecf03ad98faacf1d8c8f0\jetified-android-scalablevideoview-1.0.4\AndroidManifest.xml:8:5-10:41
+MERGED from [com.yqritc:android-scalablevideoview:1.0.4] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\0efb16eff47ecf03ad98faacf1d8c8f0\jetified-android-scalablevideoview-1.0.4\AndroidManifest.xml:8:5-10:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\9d493ec1df8ba3e4e28337cc0148b598\jetified-fbcore-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\9d493ec1df8ba3e4e28337cc0148b598\jetified-fbcore-2.0.0\AndroidManifest.xml:5:5-7:41
+INJECTED from C:\Users\soudh\Downloads\Face2Face-App-main\Face2Face-App-main\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\soudh\Downloads\Face2Face-App-main\Face2Face-App-main\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\soudh\Downloads\Face2Face-App-main\Face2Face-App-main\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\soudh\Downloads\Face2Face-App-main\Face2Face-App-main\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\soudh\Downloads\Face2Face-App-main\Face2Face-App-main\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\soudh\Downloads\Face2Face-App-main\Face2Face-App-main\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\soudh\Downloads\Face2Face-App-main\Face2Face-App-main\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\soudh\Downloads\Face2Face-App-main\Face2Face-App-main\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [org.jitsi.react:jitsi-meet-sdk:3.10.2] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\f87b4c314a841adcfd86a6d80209411c\jetified-jitsi-meet-sdk-3.10.2\AndroidManifest.xml:10:5-79
+MERGED from [com.facebook.react:react-native-community_netinfo:4.1.5-jitsi-8711917] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\9627468fae8ce27b6cad3cada140439b\jetified-react-native-community_netinfo-4.1.5-jitsi-8711917\AndroidManifest.xml:9:5-79
+MERGED from [com.facebook.react:react-native-community_netinfo:4.1.5-jitsi-8711917] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\9627468fae8ce27b6cad3cada140439b\jetified-react-native-community_netinfo-4.1.5-jitsi-8711917\AndroidManifest.xml:9:5-79
+MERGED from [com.google.firebase:firebase-firestore:22.1.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\0dc7d0dc5cfbb49c18d11a8ac5cf276a\jetified-firebase-firestore-22.1.0\AndroidManifest.xml:13:5-79
+MERGED from [com.google.firebase:firebase-firestore:22.1.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\0dc7d0dc5cfbb49c18d11a8ac5cf276a\jetified-firebase-firestore-22.1.0\AndroidManifest.xml:13:5-79
+MERGED from [com.google.firebase:firebase-auth:21.0.3] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\893d160e19d6415da482cbe6ee90126d\jetified-firebase-auth-21.0.3\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-auth:21.0.3] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\893d160e19d6415da482cbe6ee90126d\jetified-firebase-auth-21.0.3\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\8ebde2a478b398858333f87ca20dfd62\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\8ebde2a478b398858333f87ca20dfd62\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:25:5-79
+MERGED from [com.google.firebase:firebase-iid:21.0.1] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\5d69e4dcef18071f7f3448f56c5d9d1e\jetified-firebase-iid-21.0.1\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:21.0.1] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\5d69e4dcef18071f7f3448f56c5d9d1e\jetified-firebase-iid-21.0.1\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-installations:16.3.5] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\45283a17cc678a8d8627a1f9f42d0fa4\jetified-firebase-installations-16.3.5\AndroidManifest.xml:10:5-79
+MERGED from [com.google.firebase:firebase-installations:16.3.5] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\45283a17cc678a8d8627a1f9f42d0fa4\jetified-firebase-installations-16.3.5\AndroidManifest.xml:10:5-79
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\7e27ed114a5e5fe24a021eca972a29c9\jetified-play-services-cloud-messaging-16.0.0\AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\7e27ed114a5e5fe24a021eca972a29c9\jetified-play-services-cloud-messaging-16.0.0\AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.5] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\22a5bc2fa43479d6ec54af41cd1908f7\jetified-transport-runtime-2.2.5\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.5] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\22a5bc2fa43479d6ec54af41cd1908f7\jetified-transport-runtime-2.2.5\AndroidManifest.xml:22:5-79
+MERGED from [io.grpc:grpc-android:1.28.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\fbf51b481d8dd30fa32fb88bcede2d09\jetified-grpc-android-1.28.0\AndroidManifest.xml:11:5-79
+MERGED from [io.grpc:grpc-android:1.28.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\fbf51b481d8dd30fa32fb88bcede2d09\jetified-grpc-android-1.28.0\AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from [org.jitsi.react:jitsi-meet-sdk:3.10.2] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\f87b4c314a841adcfd86a6d80209411c\jetified-jitsi-meet-sdk-3.10.2\AndroidManifest.xml:10:22-76
+uses-permission#android.permission.BLUETOOTH
+ADDED from [org.jitsi.react:jitsi-meet-sdk:3.10.2] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\f87b4c314a841adcfd86a6d80209411c\jetified-jitsi-meet-sdk-3.10.2\AndroidManifest.xml:11:5-68
+	android:name
+		ADDED from [org.jitsi.react:jitsi-meet-sdk:3.10.2] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\f87b4c314a841adcfd86a6d80209411c\jetified-jitsi-meet-sdk-3.10.2\AndroidManifest.xml:11:22-65
+uses-permission#android.permission.CAMERA
+ADDED from [org.jitsi.react:jitsi-meet-sdk:3.10.2] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\f87b4c314a841adcfd86a6d80209411c\jetified-jitsi-meet-sdk-3.10.2\AndroidManifest.xml:12:5-65
+	android:name
+		ADDED from [org.jitsi.react:jitsi-meet-sdk:3.10.2] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\f87b4c314a841adcfd86a6d80209411c\jetified-jitsi-meet-sdk-3.10.2\AndroidManifest.xml:12:22-62
+uses-permission#android.permission.MANAGE_OWN_CALLS
+ADDED from [org.jitsi.react:jitsi-meet-sdk:3.10.2] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\f87b4c314a841adcfd86a6d80209411c\jetified-jitsi-meet-sdk-3.10.2\AndroidManifest.xml:14:5-75
+	android:name
+		ADDED from [org.jitsi.react:jitsi-meet-sdk:3.10.2] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\f87b4c314a841adcfd86a6d80209411c\jetified-jitsi-meet-sdk-3.10.2\AndroidManifest.xml:14:22-72
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from [org.jitsi.react:jitsi-meet-sdk:3.10.2] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\f87b4c314a841adcfd86a6d80209411c\jetified-jitsi-meet-sdk-3.10.2\AndroidManifest.xml:15:5-80
+	android:name
+		ADDED from [org.jitsi.react:jitsi-meet-sdk:3.10.2] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\f87b4c314a841adcfd86a6d80209411c\jetified-jitsi-meet-sdk-3.10.2\AndroidManifest.xml:15:22-77
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from [org.jitsi.react:jitsi-meet-sdk:3.10.2] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\f87b4c314a841adcfd86a6d80209411c\jetified-jitsi-meet-sdk-3.10.2\AndroidManifest.xml:16:5-71
+	android:name
+		ADDED from [org.jitsi.react:jitsi-meet-sdk:3.10.2] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\f87b4c314a841adcfd86a6d80209411c\jetified-jitsi-meet-sdk-3.10.2\AndroidManifest.xml:16:22-68
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from [org.jitsi.react:jitsi-meet-sdk:3.10.2] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\f87b4c314a841adcfd86a6d80209411c\jetified-jitsi-meet-sdk-3.10.2\AndroidManifest.xml:17:5-78
+	android:name
+		ADDED from [org.jitsi.react:jitsi-meet-sdk:3.10.2] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\f87b4c314a841adcfd86a6d80209411c\jetified-jitsi-meet-sdk-3.10.2\AndroidManifest.xml:17:22-75
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [org.jitsi.react:jitsi-meet-sdk:3.10.2] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\f87b4c314a841adcfd86a6d80209411c\jetified-jitsi-meet-sdk-3.10.2\AndroidManifest.xml:18:5-68
+MERGED from [com.facebook.react:react-native-background-timer:2.4.0-jitsi-8711917] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\8bb29311c840f0463310cfc235444bb7\jetified-react-native-background-timer-2.4.0-jitsi-8711917\AndroidManifest.xml:11:5-68
+MERGED from [com.facebook.react:react-native-background-timer:2.4.0-jitsi-8711917] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\8bb29311c840f0463310cfc235444bb7\jetified-react-native-background-timer-2.4.0-jitsi-8711917\AndroidManifest.xml:11:5-68
+MERGED from [com.google.firebase:firebase-iid:21.0.1] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\5d69e4dcef18071f7f3448f56c5d9d1e\jetified-firebase-iid-21.0.1\AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:21.0.1] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\5d69e4dcef18071f7f3448f56c5d9d1e\jetified-firebase-iid-21.0.1\AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\7e27ed114a5e5fe24a021eca972a29c9\jetified-play-services-cloud-messaging-16.0.0\AndroidManifest.xml:9:5-68
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\7e27ed114a5e5fe24a021eca972a29c9\jetified-play-services-cloud-messaging-16.0.0\AndroidManifest.xml:9:5-68
+	android:name
+		ADDED from [org.jitsi.react:jitsi-meet-sdk:3.10.2] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\f87b4c314a841adcfd86a6d80209411c\jetified-jitsi-meet-sdk-3.10.2\AndroidManifest.xml:18:22-65
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [org.jitsi.react:jitsi-meet-sdk:3.10.2] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\f87b4c314a841adcfd86a6d80209411c\jetified-jitsi-meet-sdk-3.10.2\AndroidManifest.xml:19:5-76
+	android:name
+		ADDED from [org.jitsi.react:jitsi-meet-sdk:3.10.2] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\f87b4c314a841adcfd86a6d80209411c\jetified-jitsi-meet-sdk-3.10.2\AndroidManifest.xml:19:22-73
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from [org.jitsi.react:jitsi-meet-sdk:3.10.2] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\f87b4c314a841adcfd86a6d80209411c\jetified-jitsi-meet-sdk-3.10.2\AndroidManifest.xml:20:5-77
+	android:name
+		ADDED from [org.jitsi.react:jitsi-meet-sdk:3.10.2] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\f87b4c314a841adcfd86a6d80209411c\jetified-jitsi-meet-sdk-3.10.2\AndroidManifest.xml:20:22-74
+uses-feature#0x00020000
+ADDED from [org.jitsi.react:jitsi-meet-sdk:3.10.2] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\f87b4c314a841adcfd86a6d80209411c\jetified-jitsi-meet-sdk-3.10.2\AndroidManifest.xml:22:5-24:35
+	android:glEsVersion
+		ADDED from [org.jitsi.react:jitsi-meet-sdk:3.10.2] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\f87b4c314a841adcfd86a6d80209411c\jetified-jitsi-meet-sdk-3.10.2\AndroidManifest.xml:23:9-41
+	android:required
+		ADDED from [org.jitsi.react:jitsi-meet-sdk:3.10.2] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\f87b4c314a841adcfd86a6d80209411c\jetified-jitsi-meet-sdk-3.10.2\AndroidManifest.xml:24:9-32
+uses-feature#android.hardware.camera
+ADDED from [org.jitsi.react:jitsi-meet-sdk:3.10.2] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\f87b4c314a841adcfd86a6d80209411c\jetified-jitsi-meet-sdk-3.10.2\AndroidManifest.xml:25:5-27:36
+	android:required
+		ADDED from [org.jitsi.react:jitsi-meet-sdk:3.10.2] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\f87b4c314a841adcfd86a6d80209411c\jetified-jitsi-meet-sdk-3.10.2\AndroidManifest.xml:27:9-33
+	android:name
+		ADDED from [org.jitsi.react:jitsi-meet-sdk:3.10.2] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\f87b4c314a841adcfd86a6d80209411c\jetified-jitsi-meet-sdk-3.10.2\AndroidManifest.xml:26:9-47
+uses-feature#android.hardware.camera.autofocus
+ADDED from [org.jitsi.react:jitsi-meet-sdk:3.10.2] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\f87b4c314a841adcfd86a6d80209411c\jetified-jitsi-meet-sdk-3.10.2\AndroidManifest.xml:28:5-30:36
+	android:required
+		ADDED from [org.jitsi.react:jitsi-meet-sdk:3.10.2] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\f87b4c314a841adcfd86a6d80209411c\jetified-jitsi-meet-sdk-3.10.2\AndroidManifest.xml:30:9-33
+	android:name
+		ADDED from [org.jitsi.react:jitsi-meet-sdk:3.10.2] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\f87b4c314a841adcfd86a6d80209411c\jetified-jitsi-meet-sdk-3.10.2\AndroidManifest.xml:29:9-57
+activity#org.jitsi.meet.sdk.JitsiMeetActivity
+ADDED from [org.jitsi.react:jitsi-meet-sdk:3.10.2] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\f87b4c314a841adcfd86a6d80209411c\jetified-jitsi-meet-sdk-3.10.2\AndroidManifest.xml:36:9-42:58
+	android:launchMode
+		ADDED from [org.jitsi.react:jitsi-meet-sdk:3.10.2] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\f87b4c314a841adcfd86a6d80209411c\jetified-jitsi-meet-sdk-3.10.2\AndroidManifest.xml:39:13-44
+	android:windowSoftInputMode
+		ADDED from [org.jitsi.react:jitsi-meet-sdk:3.10.2] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\f87b4c314a841adcfd86a6d80209411c\jetified-jitsi-meet-sdk-3.10.2\AndroidManifest.xml:42:13-55
+	android:supportsPictureInPicture
+		ADDED from [org.jitsi.react:jitsi-meet-sdk:3.10.2] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\f87b4c314a841adcfd86a6d80209411c\jetified-jitsi-meet-sdk-3.10.2\AndroidManifest.xml:41:13-52
+	android:resizeableActivity
+		ADDED from [org.jitsi.react:jitsi-meet-sdk:3.10.2] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\f87b4c314a841adcfd86a6d80209411c\jetified-jitsi-meet-sdk-3.10.2\AndroidManifest.xml:40:13-46
+	android:configChanges
+		ADDED from [org.jitsi.react:jitsi-meet-sdk:3.10.2] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\f87b4c314a841adcfd86a6d80209411c\jetified-jitsi-meet-sdk-3.10.2\AndroidManifest.xml:38:13-115
+	android:name
+		ADDED from [org.jitsi.react:jitsi-meet-sdk:3.10.2] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\f87b4c314a841adcfd86a6d80209411c\jetified-jitsi-meet-sdk-3.10.2\AndroidManifest.xml:37:13-64
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from [org.jitsi.react:jitsi-meet-sdk:3.10.2] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\f87b4c314a841adcfd86a6d80209411c\jetified-jitsi-meet-sdk-3.10.2\AndroidManifest.xml:43:9-86
+	android:name
+		ADDED from [org.jitsi.react:jitsi-meet-sdk:3.10.2] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\f87b4c314a841adcfd86a6d80209411c\jetified-jitsi-meet-sdk-3.10.2\AndroidManifest.xml:43:19-83
+service#org.jitsi.meet.sdk.ConnectionService
+ADDED from [org.jitsi.react:jitsi-meet-sdk:3.10.2] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\f87b4c314a841adcfd86a6d80209411c\jetified-jitsi-meet-sdk-3.10.2\AndroidManifest.xml:45:9-52:19
+	android:exported
+		ADDED from [org.jitsi.react:jitsi-meet-sdk:3.10.2] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\f87b4c314a841adcfd86a6d80209411c\jetified-jitsi-meet-sdk-3.10.2\AndroidManifest.xml:47:13-36
+	android:permission
+		ADDED from [org.jitsi.react:jitsi-meet-sdk:3.10.2] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\f87b4c314a841adcfd86a6d80209411c\jetified-jitsi-meet-sdk-3.10.2\AndroidManifest.xml:48:13-84
+	android:name
+		ADDED from [org.jitsi.react:jitsi-meet-sdk:3.10.2] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\f87b4c314a841adcfd86a6d80209411c\jetified-jitsi-meet-sdk-3.10.2\AndroidManifest.xml:46:13-64
+intent-filter#action:name:android.telecom.ConnectionService
+ADDED from [org.jitsi.react:jitsi-meet-sdk:3.10.2] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\f87b4c314a841adcfd86a6d80209411c\jetified-jitsi-meet-sdk-3.10.2\AndroidManifest.xml:49:13-51:29
+action#android.telecom.ConnectionService
+ADDED from [org.jitsi.react:jitsi-meet-sdk:3.10.2] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\f87b4c314a841adcfd86a6d80209411c\jetified-jitsi-meet-sdk-3.10.2\AndroidManifest.xml:50:17-76
+	android:name
+		ADDED from [org.jitsi.react:jitsi-meet-sdk:3.10.2] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\f87b4c314a841adcfd86a6d80209411c\jetified-jitsi-meet-sdk-3.10.2\AndroidManifest.xml:50:25-73
+service#org.jitsi.meet.sdk.JitsiMeetOngoingConferenceService
+ADDED from [org.jitsi.react:jitsi-meet-sdk:3.10.2] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\f87b4c314a841adcfd86a6d80209411c\jetified-jitsi-meet-sdk-3.10.2\AndroidManifest.xml:53:9-55:63
+	android:foregroundServiceType
+		ADDED from [org.jitsi.react:jitsi-meet-sdk:3.10.2] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\f87b4c314a841adcfd86a6d80209411c\jetified-jitsi-meet-sdk-3.10.2\AndroidManifest.xml:55:13-60
+	android:name
+		ADDED from [org.jitsi.react:jitsi-meet-sdk:3.10.2] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\f87b4c314a841adcfd86a6d80209411c\jetified-jitsi-meet-sdk-3.10.2\AndroidManifest.xml:54:13-80
+provider#com.reactnativecommunity.webview.RNCWebViewFileProvider
+ADDED from [org.jitsi.react:jitsi-meet-sdk:3.10.2] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\f87b4c314a841adcfd86a6d80209411c\jetified-jitsi-meet-sdk-3.10.2\AndroidManifest.xml:57:9-62:20
+MERGED from [com.facebook.react:react-native-webview:11.0.2-jitsi-8711917] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\7788592cfd882718323ccd03b725edf0\jetified-react-native-webview-11.0.2-jitsi-8711917\AndroidManifest.xml:12:9-20:20
+MERGED from [com.facebook.react:react-native-webview:11.0.2-jitsi-8711917] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\7788592cfd882718323ccd03b725edf0\jetified-react-native-webview-11.0.2-jitsi-8711917\AndroidManifest.xml:12:9-20:20
+	android:grantUriPermissions
+		ADDED from [com.facebook.react:react-native-webview:11.0.2-jitsi-8711917] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\7788592cfd882718323ccd03b725edf0\jetified-react-native-webview-11.0.2-jitsi-8711917\AndroidManifest.xml:16:13-47
+	android:enabled
+		ADDED from [org.jitsi.react:jitsi-meet-sdk:3.10.2] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\f87b4c314a841adcfd86a6d80209411c\jetified-jitsi-meet-sdk-3.10.2\AndroidManifest.xml:60:13-36
+	android:authorities
+		ADDED from [org.jitsi.react:jitsi-meet-sdk:3.10.2] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\f87b4c314a841adcfd86a6d80209411c\jetified-jitsi-meet-sdk-3.10.2\AndroidManifest.xml:59:13-64
+		REJECTED from [com.facebook.react:react-native-webview:11.0.2-jitsi-8711917] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\7788592cfd882718323ccd03b725edf0\jetified-react-native-webview-11.0.2-jitsi-8711917\AndroidManifest.xml:14:13-64
+	android:exported
+		ADDED from [com.facebook.react:react-native-webview:11.0.2-jitsi-8711917] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\7788592cfd882718323ccd03b725edf0\jetified-react-native-webview-11.0.2-jitsi-8711917\AndroidManifest.xml:15:13-37
+	tools:replace
+		ADDED from [org.jitsi.react:jitsi-meet-sdk:3.10.2] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\f87b4c314a841adcfd86a6d80209411c\jetified-jitsi-meet-sdk-3.10.2\AndroidManifest.xml:61:13-48
+	android:name
+		ADDED from [org.jitsi.react:jitsi-meet-sdk:3.10.2] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\f87b4c314a841adcfd86a6d80209411c\jetified-jitsi-meet-sdk-3.10.2\AndroidManifest.xml:58:13-83
+uses-permission#android.permission.WRITE_CALENDAR
+ADDED from [com.facebook.react:react-native-calendar-events:2.0.0-jitsi-8711917] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\805ef81bb71a78d37146202d4b3c8c9e\jetified-react-native-calendar-events-2.0.0-jitsi-8711917\AndroidManifest.xml:11:5-73
+	android:name
+		ADDED from [com.facebook.react:react-native-calendar-events:2.0.0-jitsi-8711917] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\805ef81bb71a78d37146202d4b3c8c9e\jetified-react-native-calendar-events-2.0.0-jitsi-8711917\AndroidManifest.xml:11:22-70
+uses-permission#android.permission.READ_CALENDAR
+ADDED from [com.facebook.react:react-native-calendar-events:2.0.0-jitsi-8711917] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\805ef81bb71a78d37146202d4b3c8c9e\jetified-react-native-calendar-events-2.0.0-jitsi-8711917\AndroidManifest.xml:12:5-72
+	android:name
+		ADDED from [com.facebook.react:react-native-calendar-events:2.0.0-jitsi-8711917] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\805ef81bb71a78d37146202d4b3c8c9e\jetified-react-native-calendar-events-2.0.0-jitsi-8711917\AndroidManifest.xml:12:22-69
+provider#com.oblador.performance.StartTimeProvider
+ADDED from [com.facebook.react:react-native-performance:2.0.0-jitsi-8711917] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\786f1b59a0ed8aa69fcb305e72fd3976\jetified-react-native-performance-2.0.0-jitsi-8711917\AndroidManifest.xml:10:9-13:40
+	android:authorities
+		ADDED from [com.facebook.react:react-native-performance:2.0.0-jitsi-8711917] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\786f1b59a0ed8aa69fcb305e72fd3976\jetified-react-native-performance-2.0.0-jitsi-8711917\AndroidManifest.xml:12:13-71
+	android:exported
+		ADDED from [com.facebook.react:react-native-performance:2.0.0-jitsi-8711917] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\786f1b59a0ed8aa69fcb305e72fd3976\jetified-react-native-performance-2.0.0-jitsi-8711917\AndroidManifest.xml:13:13-37
+	android:name
+		ADDED from [com.facebook.react:react-native-performance:2.0.0-jitsi-8711917] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\786f1b59a0ed8aa69fcb305e72fd3976\jetified-react-native-performance-2.0.0-jitsi-8711917\AndroidManifest.xml:11:13-69
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [com.facebook.react:react-native-webview:11.0.2-jitsi-8711917] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\7788592cfd882718323ccd03b725edf0\jetified-react-native-webview-11.0.2-jitsi-8711917\AndroidManifest.xml:17:13-19:63
+	android:resource
+		ADDED from [com.facebook.react:react-native-webview:11.0.2-jitsi-8711917] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\7788592cfd882718323ccd03b725edf0\jetified-react-native-webview-11.0.2-jitsi-8711917\AndroidManifest.xml:19:17-60
+	android:name
+		ADDED from [com.facebook.react:react-native-webview:11.0.2-jitsi-8711917] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\7788592cfd882718323ccd03b725edf0\jetified-react-native-webview-11.0.2-jitsi-8711917\AndroidManifest.xml:18:17-67
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:21.0.1] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\9d22dfe104aae82c03ed20d5a67e0bc9\jetified-firebase-messaging-21.0.1\AndroidManifest.xml:28:9-35:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:21.0.1] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\9d22dfe104aae82c03ed20d5a67e0bc9\jetified-firebase-messaging-21.0.1\AndroidManifest.xml:31:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-messaging:21.0.1] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\9d22dfe104aae82c03ed20d5a67e0bc9\jetified-firebase-messaging-21.0.1\AndroidManifest.xml:30:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:21.0.1] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\9d22dfe104aae82c03ed20d5a67e0bc9\jetified-firebase-messaging-21.0.1\AndroidManifest.xml:29:13-82
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:21.0.1] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\9d22dfe104aae82c03ed20d5a67e0bc9\jetified-firebase-messaging-21.0.1\AndroidManifest.xml:32:13-34:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-messaging:21.0.1] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\9d22dfe104aae82c03ed20d5a67e0bc9\jetified-firebase-messaging-21.0.1\AndroidManifest.xml:32:28-51
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:21.0.1] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\9d22dfe104aae82c03ed20d5a67e0bc9\jetified-firebase-messaging-21.0.1\AndroidManifest.xml:33:17-78
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:21.0.1] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\9d22dfe104aae82c03ed20d5a67e0bc9\jetified-firebase-messaging-21.0.1\AndroidManifest.xml:33:25-75
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-messaging:21.0.1] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\9d22dfe104aae82c03ed20d5a67e0bc9\jetified-firebase-messaging-21.0.1\AndroidManifest.xml:36:9-42:19
+MERGED from [com.google.firebase:firebase-firestore:22.1.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\0dc7d0dc5cfbb49c18d11a8ac5cf276a\jetified-firebase-firestore-22.1.0\AndroidManifest.xml:17:9-23:19
+MERGED from [com.google.firebase:firebase-firestore:22.1.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\0dc7d0dc5cfbb49c18d11a8ac5cf276a\jetified-firebase-firestore-22.1.0\AndroidManifest.xml:17:9-23:19
+MERGED from [com.google.firebase:firebase-auth:21.0.3] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\893d160e19d6415da482cbe6ee90126d\jetified-firebase-auth-21.0.3\AndroidManifest.xml:64:9-70:19
+MERGED from [com.google.firebase:firebase-auth:21.0.3] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\893d160e19d6415da482cbe6ee90126d\jetified-firebase-auth-21.0.3\AndroidManifest.xml:64:9-70:19
+MERGED from [com.google.firebase:firebase-datatransport:17.0.10] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\d88c2bc0c852a28832d987c5d25a0274\jetified-firebase-datatransport-17.0.10\AndroidManifest.xml:25:9-31:19
+MERGED from [com.google.firebase:firebase-datatransport:17.0.10] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\d88c2bc0c852a28832d987c5d25a0274\jetified-firebase-datatransport-17.0.10\AndroidManifest.xml:25:9-31:19
+MERGED from [com.google.firebase:firebase-iid:21.0.1] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\5d69e4dcef18071f7f3448f56c5d9d1e\jetified-firebase-iid-21.0.1\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-iid:21.0.1] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\5d69e4dcef18071f7f3448f56c5d9d1e\jetified-firebase-iid-21.0.1\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-installations:16.3.5] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\45283a17cc678a8d8627a1f9f42d0fa4\jetified-firebase-installations-16.3.5\AndroidManifest.xml:15:9-21:19
+MERGED from [com.google.firebase:firebase-installations:16.3.5] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\45283a17cc678a8d8627a1f9f42d0fa4\jetified-firebase-installations-16.3.5\AndroidManifest.xml:15:9-21:19
+MERGED from [com.google.firebase:firebase-common:20.1.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\68da68ff1e110cc6e700ad4063acf41c\jetified-firebase-common-20.1.0\AndroidManifest.xml:33:9-37:35
+MERGED from [com.google.firebase:firebase-common:20.1.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\68da68ff1e110cc6e700ad4063acf41c\jetified-firebase-common-20.1.0\AndroidManifest.xml:33:9-37:35
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:21.0.1] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\9d22dfe104aae82c03ed20d5a67e0bc9\jetified-firebase-messaging-21.0.1\AndroidManifest.xml:38:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:20.1.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\68da68ff1e110cc6e700ad4063acf41c\jetified-firebase-common-20.1.0\AndroidManifest.xml:37:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.1.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\68da68ff1e110cc6e700ad4063acf41c\jetified-firebase-common-20.1.0\AndroidManifest.xml:35:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:21.0.1] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\9d22dfe104aae82c03ed20d5a67e0bc9\jetified-firebase-messaging-21.0.1\AndroidManifest.xml:37:13-84
+meta-data#com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingRegistrar
+ADDED from [com.google.firebase:firebase-messaging:21.0.1] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\9d22dfe104aae82c03ed20d5a67e0bc9\jetified-firebase-messaging-21.0.1\AndroidManifest.xml:39:13-41:85
+	android:value
+		ADDED from [com.google.firebase:firebase-messaging:21.0.1] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\9d22dfe104aae82c03ed20d5a67e0bc9\jetified-firebase-messaging-21.0.1\AndroidManifest.xml:41:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:21.0.1] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\9d22dfe104aae82c03ed20d5a67e0bc9\jetified-firebase-messaging-21.0.1\AndroidManifest.xml:40:17-119
+meta-data#com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar
+ADDED from [com.google.firebase:firebase-firestore:22.1.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\0dc7d0dc5cfbb49c18d11a8ac5cf276a\jetified-firebase-firestore-22.1.0\AndroidManifest.xml:20:13-22:85
+	android:value
+		ADDED from [com.google.firebase:firebase-firestore:22.1.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\0dc7d0dc5cfbb49c18d11a8ac5cf276a\jetified-firebase-firestore-22.1.0\AndroidManifest.xml:22:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:22.1.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\0dc7d0dc5cfbb49c18d11a8ac5cf276a\jetified-firebase-firestore-22.1.0\AndroidManifest.xml:21:17-111
+activity#com.google.firebase.auth.internal.GenericIdpActivity
+ADDED from [com.google.firebase:firebase-auth:21.0.3] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\893d160e19d6415da482cbe6ee90126d\jetified-firebase-auth-21.0.3\AndroidManifest.xml:27:9-44:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:21.0.3] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\893d160e19d6415da482cbe6ee90126d\jetified-firebase-auth-21.0.3\AndroidManifest.xml:29:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:21.0.3] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\893d160e19d6415da482cbe6ee90126d\jetified-firebase-auth-21.0.3\AndroidManifest.xml:31:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:21.0.3] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\893d160e19d6415da482cbe6ee90126d\jetified-firebase-auth-21.0.3\AndroidManifest.xml:30:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:21.0.3] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\893d160e19d6415da482cbe6ee90126d\jetified-firebase-auth-21.0.3\AndroidManifest.xml:32:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.3] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\893d160e19d6415da482cbe6ee90126d\jetified-firebase-auth-21.0.3\AndroidManifest.xml:28:13-80
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:genericidp
+ADDED from [com.google.firebase:firebase-auth:21.0.3] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\893d160e19d6415da482cbe6ee90126d\jetified-firebase-auth-21.0.3\AndroidManifest.xml:33:13-43:29
+action#android.intent.action.VIEW
+ADDED from [com.google.firebase:firebase-auth:21.0.3] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\893d160e19d6415da482cbe6ee90126d\jetified-firebase-auth-21.0.3\AndroidManifest.xml:34:17-69
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.3] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\893d160e19d6415da482cbe6ee90126d\jetified-firebase-auth-21.0.3\AndroidManifest.xml:34:25-66
+category#android.intent.category.DEFAULT
+ADDED from [com.google.firebase:firebase-auth:21.0.3] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\893d160e19d6415da482cbe6ee90126d\jetified-firebase-auth-21.0.3\AndroidManifest.xml:36:17-76
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.3] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\893d160e19d6415da482cbe6ee90126d\jetified-firebase-auth-21.0.3\AndroidManifest.xml:36:27-73
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.firebase:firebase-auth:21.0.3] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\893d160e19d6415da482cbe6ee90126d\jetified-firebase-auth-21.0.3\AndroidManifest.xml:37:17-78
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.3] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\893d160e19d6415da482cbe6ee90126d\jetified-firebase-auth-21.0.3\AndroidManifest.xml:37:27-75
+data
+ADDED from [com.google.firebase:firebase-auth:21.0.3] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\893d160e19d6415da482cbe6ee90126d\jetified-firebase-auth-21.0.3\AndroidManifest.xml:39:17-42:51
+	android:path
+		ADDED from [com.google.firebase:firebase-auth:21.0.3] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\893d160e19d6415da482cbe6ee90126d\jetified-firebase-auth-21.0.3\AndroidManifest.xml:41:21-37
+	android:host
+		ADDED from [com.google.firebase:firebase-auth:21.0.3] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\893d160e19d6415da482cbe6ee90126d\jetified-firebase-auth-21.0.3\AndroidManifest.xml:40:21-49
+	android:scheme
+		ADDED from [com.google.firebase:firebase-auth:21.0.3] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\893d160e19d6415da482cbe6ee90126d\jetified-firebase-auth-21.0.3\AndroidManifest.xml:42:21-48
+activity#com.google.firebase.auth.internal.RecaptchaActivity
+ADDED from [com.google.firebase:firebase-auth:21.0.3] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\893d160e19d6415da482cbe6ee90126d\jetified-firebase-auth-21.0.3\AndroidManifest.xml:45:9-62:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:21.0.3] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\893d160e19d6415da482cbe6ee90126d\jetified-firebase-auth-21.0.3\AndroidManifest.xml:47:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:21.0.3] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\893d160e19d6415da482cbe6ee90126d\jetified-firebase-auth-21.0.3\AndroidManifest.xml:49:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:21.0.3] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\893d160e19d6415da482cbe6ee90126d\jetified-firebase-auth-21.0.3\AndroidManifest.xml:48:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:21.0.3] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\893d160e19d6415da482cbe6ee90126d\jetified-firebase-auth-21.0.3\AndroidManifest.xml:50:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.3] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\893d160e19d6415da482cbe6ee90126d\jetified-firebase-auth-21.0.3\AndroidManifest.xml:46:13-79
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:recaptcha
+ADDED from [com.google.firebase:firebase-auth:21.0.3] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\893d160e19d6415da482cbe6ee90126d\jetified-firebase-auth-21.0.3\AndroidManifest.xml:51:13-61:29
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:21.0.3] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\893d160e19d6415da482cbe6ee90126d\jetified-firebase-auth-21.0.3\AndroidManifest.xml:67:13-69:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:21.0.3] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\893d160e19d6415da482cbe6ee90126d\jetified-firebase-auth-21.0.3\AndroidManifest.xml:69:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.3] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\893d160e19d6415da482cbe6ee90126d\jetified-firebase-auth-21.0.3\AndroidManifest.xml:68:17-109
+meta-data#com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar
+ADDED from [com.google.firebase:firebase-datatransport:17.0.10] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\d88c2bc0c852a28832d987c5d25a0274\jetified-firebase-datatransport-17.0.10\AndroidManifest.xml:28:13-30:85
+	android:value
+		ADDED from [com.google.firebase:firebase-datatransport:17.0.10] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\d88c2bc0c852a28832d987c5d25a0274\jetified-firebase-datatransport-17.0.10\AndroidManifest.xml:30:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-datatransport:17.0.10] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\d88c2bc0c852a28832d987c5d25a0274\jetified-firebase-datatransport-17.0.10\AndroidManifest.xml:29:17-115
+service#com.google.android.datatransport.runtime.backends.TransportBackendDiscovery
+ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\8ebde2a478b398858333f87ca20dfd62\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.5] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\22a5bc2fa43479d6ec54af41cd1908f7\jetified-transport-runtime-2.2.5\AndroidManifest.xml:36:9-38:40
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.5] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\22a5bc2fa43479d6ec54af41cd1908f7\jetified-transport-runtime-2.2.5\AndroidManifest.xml:36:9-38:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\8ebde2a478b398858333f87ca20dfd62\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\8ebde2a478b398858333f87ca20dfd62\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:30:13-103
+meta-data#backend:com.google.android.datatransport.cct.CctBackendFactory
+ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\8ebde2a478b398858333f87ca20dfd62\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:32:13-34:39
+	android:value
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\8ebde2a478b398858333f87ca20dfd62\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:34:17-36
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\8ebde2a478b398858333f87ca20dfd62\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:33:17-94
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:21.0.1] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\5d69e4dcef18071f7f3448f56c5d9d1e\jetified-firebase-iid-21.0.1\AndroidManifest.xml:26:5-82
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\7e27ed114a5e5fe24a021eca972a29c9\jetified-play-services-cloud-messaging-16.0.0\AndroidManifest.xml:11:5-82
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\7e27ed114a5e5fe24a021eca972a29c9\jetified-play-services-cloud-messaging-16.0.0\AndroidManifest.xml:11:5-82
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\e0f96a7b85a68f8dbde2e159aa73b958\jetified-play-services-iid-17.0.0\AndroidManifest.xml:23:5-82
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\e0f96a7b85a68f8dbde2e159aa73b958\jetified-play-services-iid-17.0.0\AndroidManifest.xml:23:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:21.0.1] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\5d69e4dcef18071f7f3448f56c5d9d1e\jetified-firebase-iid-21.0.1\AndroidManifest.xml:26:22-79
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:21.0.1] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\5d69e4dcef18071f7f3448f56c5d9d1e\jetified-firebase-iid-21.0.1\AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:21.0.1] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\5d69e4dcef18071f7f3448f56c5d9d1e\jetified-firebase-iid-21.0.1\AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:21.0.1] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\5d69e4dcef18071f7f3448f56c5d9d1e\jetified-firebase-iid-21.0.1\AndroidManifest.xml:33:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:21.0.1] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\5d69e4dcef18071f7f3448f56c5d9d1e\jetified-firebase-iid-21.0.1\AndroidManifest.xml:37:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:21.0.1] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\5d69e4dcef18071f7f3448f56c5d9d1e\jetified-firebase-iid-21.0.1\AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:21.0.1] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\5d69e4dcef18071f7f3448f56c5d9d1e\jetified-firebase-iid-21.0.1\AndroidManifest.xml:40:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:21.0.1] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\5d69e4dcef18071f7f3448f56c5d9d1e\jetified-firebase-iid-21.0.1\AndroidManifest.xml:38:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:21.0.1] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\5d69e4dcef18071f7f3448f56c5d9d1e\jetified-firebase-iid-21.0.1\AndroidManifest.xml:41:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:21.0.1] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\5d69e4dcef18071f7f3448f56c5d9d1e\jetified-firebase-iid-21.0.1\AndroidManifest.xml:42:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:21.0.1] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\5d69e4dcef18071f7f3448f56c5d9d1e\jetified-firebase-iid-21.0.1\AndroidManifest.xml:42:25-78
+meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar
+ADDED from [com.google.firebase:firebase-installations:16.3.5] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\45283a17cc678a8d8627a1f9f42d0fa4\jetified-firebase-installations-16.3.5\AndroidManifest.xml:18:13-20:85
+	android:value
+		ADDED from [com.google.firebase:firebase-installations:16.3.5] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\45283a17cc678a8d8627a1f9f42d0fa4\jetified-firebase-installations-16.3.5\AndroidManifest.xml:20:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-installations:16.3.5] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\45283a17cc678a8d8627a1f9f42d0fa4\jetified-firebase-installations-16.3.5\AndroidManifest.xml:19:17-127
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:20.1.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\68da68ff1e110cc6e700ad4063acf41c\jetified-firebase-common-20.1.0\AndroidManifest.xml:26:9-31:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:20.1.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\68da68ff1e110cc6e700ad4063acf41c\jetified-firebase-common-20.1.0\AndroidManifest.xml:28:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:20.1.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\68da68ff1e110cc6e700ad4063acf41c\jetified-firebase-common-20.1.0\AndroidManifest.xml:30:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.1.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\68da68ff1e110cc6e700ad4063acf41c\jetified-firebase-common-20.1.0\AndroidManifest.xml:29:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:20.1.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\68da68ff1e110cc6e700ad4063acf41c\jetified-firebase-common-20.1.0\AndroidManifest.xml:31:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:20.1.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\68da68ff1e110cc6e700ad4063acf41c\jetified-firebase-common-20.1.0\AndroidManifest.xml:27:13-77
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:17.0.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\0f13c9e8f6a90961323c2f8cee9288fe\jetified-play-services-auth-17.0.0\AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\0f13c9e8f6a90961323c2f8cee9288fe\jetified-play-services-auth-17.0.0\AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\0f13c9e8f6a90961323c2f8cee9288fe\jetified-play-services-auth-17.0.0\AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\0f13c9e8f6a90961323c2f8cee9288fe\jetified-play-services-auth-17.0.0\AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\0f13c9e8f6a90961323c2f8cee9288fe\jetified-play-services-auth-17.0.0\AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:17.0.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\0f13c9e8f6a90961323c2f8cee9288fe\jetified-play-services-auth-17.0.0\AndroidManifest.xml:33:9-36:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\0f13c9e8f6a90961323c2f8cee9288fe\jetified-play-services-auth-17.0.0\AndroidManifest.xml:35:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\0f13c9e8f6a90961323c2f8cee9288fe\jetified-play-services-auth-17.0.0\AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\0f13c9e8f6a90961323c2f8cee9288fe\jetified-play-services-auth-17.0.0\AndroidManifest.xml:34:13-89
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\98d39950d062e9c511d689e05d54d7b3\jetified-play-services-base-17.1.0\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\98d39950d062e9c511d689e05d54d7b3\jetified-play-services-base-17.1.0\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\98d39950d062e9c511d689e05d54d7b3\jetified-play-services-base-17.1.0\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\98d39950d062e9c511d689e05d54d7b3\jetified-play-services-base-17.1.0\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\28746288e708e9293478bad505943058\jetified-play-services-basement-18.0.0\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\28746288e708e9293478bad505943058\jetified-play-services-basement-18.0.0\AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\28746288e708e9293478bad505943058\jetified-play-services-basement-18.0.0\AndroidManifest.xml:22:13-58
+service#com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService
+ADDED from [com.google.android.datatransport:transport-runtime:2.2.5] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\22a5bc2fa43479d6ec54af41cd1908f7\jetified-transport-runtime-2.2.5\AndroidManifest.xml:26:9-30:19
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.5] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\22a5bc2fa43479d6ec54af41cd1908f7\jetified-transport-runtime-2.2.5\AndroidManifest.xml:28:13-37
+	android:permission
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.5] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\22a5bc2fa43479d6ec54af41cd1908f7\jetified-transport-runtime-2.2.5\AndroidManifest.xml:29:13-69
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.5] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\22a5bc2fa43479d6ec54af41cd1908f7\jetified-transport-runtime-2.2.5\AndroidManifest.xml:27:13-117
+receiver#com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver
+ADDED from [com.google.android.datatransport:transport-runtime:2.2.5] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\22a5bc2fa43479d6ec54af41cd1908f7\jetified-transport-runtime-2.2.5\AndroidManifest.xml:32:9-34:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.5] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\22a5bc2fa43479d6ec54af41cd1908f7\jetified-transport-runtime-2.2.5\AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.5] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\22a5bc2fa43479d6ec54af41cd1908f7\jetified-transport-runtime-2.2.5\AndroidManifest.xml:33:13-132
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.android.installreferrer:installreferrer:1.1.2] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\625144836d08b5273a5c71c2a01a643a\jetified-installreferrer-1.1.2\AndroidManifest.xml:9:5-110
+	android:name
+		ADDED from [com.android.installreferrer:installreferrer:1.1.2] C:\Users\soudh\Downloads\MeetingApp-main\MeetingApp-main\caches\transforms-2\files-2.1\625144836d08b5273a5c71c2a01a643a\jetified-installreferrer-1.1.2\AndroidManifest.xml:9:22-107

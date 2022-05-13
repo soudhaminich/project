@@ -1,0 +1,75 @@
+com/example/face2face/network/ApiClient.java
+ com.example.face2face.network.ApiClient
+com/example/face2face/utilities/Constants.java
+ com.example.face2face.utilities.Constants
+com/example/face2face/databinding/ItemContainerUserBinding.java
+ com.example.face2face.databinding.ItemContainerUserBinding
+com/example/face2face/databinding/ActivitySignInBinding.java
+ com.example.face2face.databinding.ActivitySignInBinding
+com/example/face2face/databinding/ActivityMainBinding.java
+ com.example.face2face.databinding.ActivityMainBinding
+com/example/face2face/BuildConfig.java
+ com.example.face2face.BuildConfig
+com/example/face2face/activities/SignUpActivity.java
+ com.example.face2face.activities.SignUpActivity
+ com.example.face2face.activities.SignUpActivity$1
+ com.example.face2face.activities.SignUpActivity$2
+ com.example.face2face.activities.SignUpActivity$3
+ com.example.face2face.activities.SignUpActivity$4
+ com.example.face2face.activities.SignUpActivity$5
+com/example/face2face/firebase/MyFirebaseMessagingService.java
+ com.example.face2face.firebase.MyFirebaseMessagingService
+com/example/face2face/models/User.java
+ com.example.face2face.models.User
+com/example/face2face/databinding/ActivityOutgoingInvitationBinding.java
+ com.example.face2face.databinding.ActivityOutgoingInvitationBinding
+com/example/face2face/listeners/UsersListener.java
+ com.example.face2face.listeners.UsersListener
+com/example/face2face/firebase/MessagingService.java
+ com.example.face2face.firebase.MessagingService
+com/example/face2face/network/ApiService.java
+ com.example.face2face.network.ApiService
+com/example/face2face/activities/IncomingInvitationActivity.java
+ com.example.face2face.activities.IncomingInvitationActivity
+ com.example.face2face.activities.IncomingInvitationActivity$1
+ com.example.face2face.activities.IncomingInvitationActivity$2
+ com.example.face2face.activities.IncomingInvitationActivity$3
+ com.example.face2face.activities.IncomingInvitationActivity$4
+com/example/face2face/activities/OutgoingInvitationActivity.java
+ com.example.face2face.activities.OutgoingInvitationActivity
+ com.example.face2face.activities.OutgoingInvitationActivity$1
+ com.example.face2face.activities.OutgoingInvitationActivity$1$1
+ com.example.face2face.activities.OutgoingInvitationActivity$2
+ com.example.face2face.activities.OutgoingInvitationActivity$2$1
+ com.example.face2face.activities.OutgoingInvitationActivity$3
+ com.example.face2face.activities.OutgoingInvitationActivity$4
+com/example/face2face/adapters/UsersAdapter.java
+ com.example.face2face.adapters.UsersAdapter
+ com.example.face2face.adapters.UsersAdapter$UserViewHolder
+ com.example.face2face.adapters.UsersAdapter$UserViewHolder$1
+ com.example.face2face.adapters.UsersAdapter$UserViewHolder$2
+ com.example.face2face.adapters.UsersAdapter$UserViewHolder$3
+ com.example.face2face.adapters.UsersAdapter$UserViewHolder$4
+com/example/face2face/utilities/PreferenceManager.java
+ com.example.face2face.utilities.PreferenceManager
+com/example/face2face/databinding/ActivitySignUpBinding.java
+ com.example.face2face.databinding.ActivitySignUpBinding
+com/example/face2face/databinding/ActivityIncomingInvitationBinding.java
+ com.example.face2face.databinding.ActivityIncomingInvitationBinding
+com/example/face2face/activities/MainActivity.java
+ com.example.face2face.activities.MainActivity
+ com.example.face2face.activities.MainActivity$1
+ com.example.face2face.activities.MainActivity$10
+ com.example.face2face.activities.MainActivity$2
+ com.example.face2face.activities.MainActivity$3
+ com.example.face2face.activities.MainActivity$4
+ com.example.face2face.activities.MainActivity$5
+ com.example.face2face.activities.MainActivity$6
+ com.example.face2face.activities.MainActivity$7
+ com.example.face2face.activities.MainActivity$8
+ com.example.face2face.activities.MainActivity$9
+com/example/face2face/activities/SignInActivity.java
+ com.example.face2face.activities.SignInActivity
+ com.example.face2face.activities.SignInActivity$1
+ com.example.face2face.activities.SignInActivity$2
+ com.example.face2face.activities.SignInActivity$3

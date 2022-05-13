@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.facebook.react:react-native-webview:11.0.2-jitsi-8711917@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../MeetingApp-main/MeetingApp-main/caches/transforms-2/files-2.1/7788592cfd882718323ccd03b725edf0/jetified-react-native-webview-11.0.2-jitsi-8711917/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../MeetingApp-main/MeetingApp-main/caches/transforms-2/files-2.1/7788592cfd882718323ccd03b725edf0/jetified-react-native-webview-11.0.2-jitsi-8711917/res" />
+      <root url="jar://$PROJECT_DIR$/../../MeetingApp-main/MeetingApp-main/caches/transforms-2/files-2.1/7788592cfd882718323ccd03b725edf0/jetified-react-native-webview-11.0.2-jitsi-8711917/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../MeetingApp-main/MeetingApp-main/caches/modules-2/files-2.1/com.facebook.react/react-native-webview/11.0.2-jitsi-8711917/87cb55de8112687ec89330202c47d67be243e48/react-native-webview-11.0.2-jitsi-8711917-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

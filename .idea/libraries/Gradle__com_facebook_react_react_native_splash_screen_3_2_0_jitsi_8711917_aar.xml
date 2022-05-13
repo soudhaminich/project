@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.facebook.react:react-native-splash-screen:3.2.0-jitsi-8711917@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../MeetingApp-main/MeetingApp-main/caches/transforms-2/files-2.1/994205efa6578c4504f7f0c7ce691465/jetified-react-native-splash-screen-3.2.0-jitsi-8711917/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../MeetingApp-main/MeetingApp-main/caches/transforms-2/files-2.1/994205efa6578c4504f7f0c7ce691465/jetified-react-native-splash-screen-3.2.0-jitsi-8711917/res" />
+      <root url="file://$PROJECT_DIR$/../../MeetingApp-main/MeetingApp-main/caches/transforms-2/files-2.1/994205efa6578c4504f7f0c7ce691465/jetified-react-native-splash-screen-3.2.0-jitsi-8711917/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../MeetingApp-main/MeetingApp-main/caches/modules-2/files-2.1/com.facebook.react/react-native-splash-screen/3.2.0-jitsi-8711917/cddebd11458e74831b719548c06cb8caff3c72c6/react-native-splash-screen-3.2.0-jitsi-8711917-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

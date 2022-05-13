@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.facebook.react:react-native-sound:0.11.0-jitsi-8711917@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../MeetingApp-main/MeetingApp-main/caches/transforms-2/files-2.1/76dc3c360e2f0cefc546f50769cfca42/jetified-react-native-sound-0.11.0-jitsi-8711917/res" />
+      <root url="file://$PROJECT_DIR$/../../MeetingApp-main/MeetingApp-main/caches/transforms-2/files-2.1/eb5538973fbdb99d8951a03c57232c77/jetified-react-native-sound-0.11.0-jitsi-8711917/res" />
+      <root url="file://$PROJECT_DIR$/../../MeetingApp-main/MeetingApp-main/caches/transforms-2/files-2.1/eb5538973fbdb99d8951a03c57232c77/jetified-react-native-sound-0.11.0-jitsi-8711917/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../MeetingApp-main/MeetingApp-main/caches/transforms-2/files-2.1/eb5538973fbdb99d8951a03c57232c77/jetified-react-native-sound-0.11.0-jitsi-8711917/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../MeetingApp-main/MeetingApp-main/caches/modules-2/files-2.1/com.facebook.react/react-native-sound/0.11.0-jitsi-8711917/ec614ed1feadbfd20319dceec828a25612430d19/react-native-sound-0.11.0-jitsi-8711917-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
